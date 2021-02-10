@@ -8,8 +8,8 @@
  在公司内部有些早已经公开的漏洞比如struts2 thinkphp weblogic 这些需要批量测试用网上的工具有C#写的有python java 写的用这些工具都得装一下依赖库。python虽然很方面但是装库确实是很麻烦。另外本人也不擅长python编写最后选择.net来编写
 </li>
 <li>优点缺点<br>
-（1）缺点不跨平台<br>
-（2）优点傻瓜是主要导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是监测
+（1）缺点不跨平台 poc exp少<br>
+（2）优点傻瓜是主要导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测
 </li>
 </ul>
 <h2>工具使用</h1>
