@@ -46,9 +46,9 @@ AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线
 </ul>
 <h2>上图实测效果</h2>
 软件界界面
-![menu|449x499](https://forum.90sec.com/uploads/default/optimized/2X/c/c8a0333b3c31d28c2db90798d3344dc369965c89_2_898x998.png)
+![menu](https://forum.90sec.com/uploads/default/optimized/2X/c/c8a0333b3c31d28c2db90798d3344dc369965c89_2_898x998.png)
 druid测试批量测试
-![druid测试|690x349](https://forum.90sec.com/uploads/default/optimized/2X/a/aa2297c6a09ba219d4d2451b912fc6251e29ae44_2_1380x698.jpeg) 
+![druid](https://forum.90sec.com/uploads/default/optimized/2X/a/aa2297c6a09ba219d4d2451b912fc6251e29ae44_2_1380x698.jpeg) 
 ApacheFlink实战png
-![ApacheFlink实战png|690x338](https://forum.90sec.com/uploads/default/original/2X/8/85dafde5a3c59063e5877447361d461c47233682.png) 
+![Apach](https://forum.90sec.com/uploads/default/original/2X/8/85dafde5a3c59063e5877447361d461c47233682.png) 
 <h2>注意如果提示软件时间到期可以更改本地时间时间改成2021-02-10-2021-02-30就可以打开软件了</h2>
