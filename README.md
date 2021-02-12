@@ -31,6 +31,7 @@ AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线
 **ruijie**<br/>
 **apachedruid**<br/>
 **dlink**<br/>
+**solr**<br/>
 如果会在软件同目录下生产shell.txt。攻击不成功则不会生成
 </ul>
 <h2>软件使用注意事项</h2>
@@ -61,4 +62,5 @@ ApacheFlink实战png
 ![menu](https://forum.90sec.com/uploads/default/optimized/2X/6/6ea0808a2eebfc7ec8c4b6aac0c4ae8e47bd4759_2_1246x998.jpeg)
 测试
 ![menu](https://forum.90sec.com/uploads/default/optimized/2X/b/b545a978dccb5c41fa1417f2ae0ac5806652e62f_2_1326x1000.jpeg)
-
+solr动图测试
+![gif](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/Solr.gif?raw=true)
