@@ -47,7 +47,7 @@ AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线
 </li>
 <li>建议进行针对对性漏洞测试全量跑耗时就容易被waf封<br/></li>
 <li>切勿使用工具对网站进行未授权非法攻击,由此一切产生的后果与作者无关!!!!</li>
-<li>为了避免被非法利用工具软件最大支持检测url个数为1万条</li>
+<li>为了避免被非法利用工具软件最大支持检测url个数为1千条</li>
 <li>另外说如果有合适的exp或者poc可以联系我邮箱Anonymous-ghost@qq.com一起携手打造web框架自动化测试工具</li>
 </ul>
 <h2>上图实测效果</h2>
@@ -58,7 +58,7 @@ druid测试批量测试
 ![druid](https://forum.90sec.com/uploads/default/optimized/2X/a/aa2297c6a09ba219d4d2451b912fc6251e29ae44_2_1380x698.jpeg) 
 ApacheFlink实战png
 ![Apach](https://forum.90sec.com/uploads/default/original/2X/8/85dafde5a3c59063e5877447361d461c47233682.png) 
-<h2>注意如果提示软件时间到期可以更改本地时间时间改成2021-02-10-2021-02-30就可以打开软件了</h2>
+<h2>注意如果提示软件时间到期可以更改本地时间时间改成2021-02-12-2021-02-30就可以打开软件了</h2>
 
 另外扯点儿别的话题还开发了针对cms进行测试的工具。这款工具等时机成熟会放出来的暂时不放
 ![menu](https://forum.90sec.com/uploads/default/optimized/2X/b/b04f08fd772ede5e45145b8cf6df3e2c3067acd9_2_1248x1000.png)
