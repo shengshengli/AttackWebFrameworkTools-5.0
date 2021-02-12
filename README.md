@@ -1,4 +1,8 @@
 <h1>AttackWebFrameworkTools 使用方法</h1>
+<h2>更新状态日志:</h2>
+<ul>
+  <li>2021-02-12 更新solr 4个exp/poc</li>
+ </ul>
 <h2>工具编写背景:</h2>
 <ul>
 <li>编写目的：<br>
