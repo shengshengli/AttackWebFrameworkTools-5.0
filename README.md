@@ -48,7 +48,7 @@ AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线
 <li>建议进行针对对性漏洞测试全量跑耗时就容易被waf封<br/></li>
 <li>切勿使用工具对网站进行未授权非法攻击,由此一切产生的后果与作者无关!!!!</li>
 <li>为了避免被非法利用工具软件最大支持检测url个数为1千条</li>
-<li>另外说如果有合适的exp或者poc可以联系我邮箱Anonymous-ghost@qq.com一起携手打造web框架自动化测试工具</li>
+<li>另外说如果有合适的exp或者poc可以联系我邮箱Anonymous-ghost@qq.com。另外如果有bug或者好的建议也可以把意见发送到我的邮箱。一起携手打造web框架自动化测试工具</li>
 </ul>
 <h2>上图实测效果</h2>
 软件界界面
