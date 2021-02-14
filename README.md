@@ -1,5 +1,6 @@
 <h1>AttackWebFrameworkTools (For ReadTeam) 使用方法</h1>
 <p><a href="https://github.com/Anonymous-ghost/AttackWebFramework"> <img alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost-red" style="max-width:100%;"></a>
+  <a href="https://github.com/Anonymous-ghost/AttackWebFramework"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-Version1.0-faa755" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFramework"> <img alt="type" src="https://img.shields.io/badge/type-bin-blueviolet" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFramework"><img alt="Release" src="https://img.shields.io/badge/language-C%23-ff69b4.svg" style="max-width:100%;"></a>
 <a href="https://github.com/Anonymous-ghost/AttackWebFramework"><img alt="Release" src="https://img.shields.io/badge/Version-AttackWebFrameworkTools 1.0-brightgreen" style="max-width:100%;"></a>
