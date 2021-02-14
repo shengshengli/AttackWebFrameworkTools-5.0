@@ -85,10 +85,3 @@ solr新增exp测试图
 ![2017](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/solr2017.png)
 测试结果
 ![reslut](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/result.png)
-
-另外扯点儿别的话题还开发了针对cms进行测试的工具。这款工具等时机成熟会放出来的暂时不放
-![menu](https://forum.90sec.com/uploads/default/optimized/2X/b/b04f08fd772ede5e45145b8cf6df3e2c3067acd9_2_1248x1000.png)
-收集漏洞
-![menu](https://forum.90sec.com/uploads/default/optimized/2X/6/6ea0808a2eebfc7ec8c4b6aac0c4ae8e47bd4759_2_1246x998.jpeg)
-测试
-![menu](https://forum.90sec.com/uploads/default/optimized/2X/b/b545a978dccb5c41fa1417f2ae0ac5806652e62f_2_1326x1000.jpeg)
