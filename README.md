@@ -71,3 +71,5 @@ solr动图测试
 ![gif](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/Solr.gif?raw=true)
 solr新增exp测试图
 ![2017](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/solr2017.png)
+测试结果
+![reslut](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/result.png)
