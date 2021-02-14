@@ -1,8 +1,11 @@
 <h1>AttackWebFrameworkTools 使用方法</h1>
 <h2>更新状态日志:</h2>
 <ul>
-  <li>2021-02-14 新增solr CVE-2017-12629 exp/poc 结果增加了cve编号和漏洞名称</li>
+  <li>2021-02-14 新增solr exp/poc 结果增加了cve编号和漏洞名称</li>
   <li>2021-02-12 更新solr 4个exp/poc 动图测试效果见本页底部</li>
+  <li>2021-02-10 更新Dlink</li>
+  <li>2021-02-01 更新apachedruid</li>
+  <li>.......</li>
  </ul>
 <h2>工具编写背景:</h2>
 <ul>
