@@ -41,11 +41,11 @@ AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线
 </ul>
 <h2>软件使用注意事项</h2>
 <ul>
-<li>(1)非回显漏洞采用dnslog 验证确保联网。如果在局域网不联网环境下dnslog验证的漏洞全部无法验证。
+<li>非回显漏洞采用dnslog 验证确保联网。如果在局域网不联网环境下dnslog验证的漏洞全部无法验证。
 </li>
-<li>(2)遇到postData是jason格式时候必须 Content-type:application/json 而不是默认格式<br/></li>
-<li>(3)Dlink漏洞需要有AttackWebFrameworkTools.exe.config 并且一个网站一分钟内最多可以检测三次超过三次即使漏洞存在也检测不到 这个目前反弹shell方式不清楚<br/></li>
-<li>(4)solr CVE-2017-12629 漏洞检测时间耗时较长请耐心等待结果</li>
+<li>遇到postData是jason格式时候必须 Content-type:application/json 而不是默认格式<br/></li>
+<li>Dlink漏洞需要有AttackWebFrameworkTools.exe.config 并且一个网站一分钟内最多可以检测三次超过三次即使漏洞存在也检测不到 这个目前反弹shell方式不清楚<br/></li>
+<li>solr CVE-2017-12629 漏洞检测时间耗时较长请耐心等待结果</li>
 <li>建议进行针对对性漏洞测试全量跑耗时就容易被waf封<br/></li>
 <li>切勿使用工具对网站进行未授权非法攻击,由此一切产生的后果与作者无关!!!!</li>
 <li>为了避免被非法利用工具软件最大支持检测url个数为1千条</li>
