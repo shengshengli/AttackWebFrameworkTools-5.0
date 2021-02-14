@@ -65,6 +65,8 @@ AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线
 软件界界面
 
 ![menu](https://forum.90sec.com/uploads/default/optimized/2X/c/c8a0333b3c31d28c2db90798d3344dc369965c89_2_898x998.png)<br/>
+通达oA实战测试注意由于网站数量少所以采用自定义线程数来跑如果采用默认线程那么结果不准确
+![tongda](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/tongda.png)<br/>
 druid测试批量测试
 ![druid](https://forum.90sec.com/uploads/default/optimized/2X/a/aa2297c6a09ba219d4d2451b912fc6251e29ae44_2_1380x698.jpeg) 
 ApacheFlink实战png
