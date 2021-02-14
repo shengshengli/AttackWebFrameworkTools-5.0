@@ -1,5 +1,5 @@
 <h1>AttackWebFrameworkTools (For ReadTeam) 使用方法</h1>
-<p><a href="https://github.com/Anonymous-ghost/AttackWebFramework"> alt="Author" data-canonical-src="https://img.shields.io/badge/Author-Anonymousghost-red" style="max-width:100%;"><a href="https://github.com/Anonymous-ghost/AttackWebFramework"><img alt="Release" src="https://img.shields.io/badge/language-C%23-ff69b4.svg" style="max-width:100%;"></a>
+<p><a href="https://github.com/Anonymous-ghost/AttackWebFramework"> <img alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost-red" style="max-width:100%;"><a href="https://github.com/Anonymous-ghost/AttackWebFramework"><img alt="Release" src="https://img.shields.io/badge/language-C%23-ff69b4.svg" style="max-width:100%;"></a>
 <a href="https://github.com/Anonymous-ghost/AttackWebFramework"><img alt="Release" src="https://img.shields.io/badge/Version-AttackWebFrameworkTools 1.0-brightgreen" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer"><img  alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Anonymous-ghost/AttackWebFrameworkTools?color=gree" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
