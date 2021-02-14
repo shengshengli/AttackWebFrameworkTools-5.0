@@ -3,7 +3,6 @@
   <a href="https://github.com/Anonymous-ghost/AttackWebFramework"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-Version1.0-faa755" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFramework"> <img alt="type" src="https://img.shields.io/badge/type-bin-blueviolet" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFramework"><img alt="Release" src="https://img.shields.io/badge/language-C%23-ff69b4.svg" style="max-width:100%;"></a>
-<a href="https://github.com/Anonymous-ghost/AttackWebFramework"><img alt="Release" src="https://img.shields.io/badge/Version-AttackWebFrameworkTools 1.0-brightgreen" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer"><img  alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Anonymous-ghost/AttackWebFrameworkTools?color=gree" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
