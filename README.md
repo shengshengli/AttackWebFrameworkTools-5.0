@@ -3,7 +3,8 @@
 <ul>
   <li>2021-02-14 新增solr exp/poc 结果增加了cve编号和漏洞名称</li>
   <li>2021-02-12 更新solr 4个exp/poc 动图测试效果见本页底部</li>
-  <li>2021-02-10 更新Dlink</li>
+  <li>2021-02-08 更新solr CVE-2019-17558 一个CVE</li>
+  <li>2021-02-05 更新Dlink</li>
   <li>2021-02-01 更新apachedruid</li>
   <li>.......</li>
  </ul>
