@@ -80,10 +80,9 @@ druid测试批量测试
 ![druid](https://forum.90sec.com/uploads/default/optimized/2X/a/aa2297c6a09ba219d4d2451b912fc6251e29ae44_2_1380x698.jpeg) 
 ApacheFlink实战png
 ![Apach](https://forum.90sec.com/uploads/default/original/2X/8/85dafde5a3c59063e5877447361d461c47233682.png) 
-solr动图测试
-![Apach](https://forum.90sec.com/uploads/default/original/2X/8/85dafde5a3c59063e5877447361d461c47233682.png) 
 ActiveMQ测试
 ![ActiveMQ](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/ActiveMQ.png)
+solr动图测试
 ![gif](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/Solr.gif?raw=true)
 solr新增exp测试图
 ![2017](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/solr2017.png)
