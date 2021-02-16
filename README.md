@@ -92,10 +92,9 @@ solr新增exp测试图
 ![2017](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/solr2017.png)
 测试结果
 ![reslut](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/result.png)
-同类软件Unomi测试对比
-某软件测试结果
+同类软件Unomi测试对比:某软件测试结果速度有点慢可能是线程开的小
 ![unomi](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/UnoM.png)
-我们的软件测试结果和速度
+我们的软件测试结果和速度几分钟搞定
 ![myunomi](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/UnomiMysoft.png)
 <h2>注意如果提示软件时间到期可以更改本地时间时间改成2021-02-12-2021-02-30就可以打开软件了</h2>
 另外扯点儿别的话题还开发了针对cms进行测试的工具。这款工具等时机成熟会放出来的暂时不放
