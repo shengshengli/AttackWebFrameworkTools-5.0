@@ -98,7 +98,7 @@ solr新增exp测试图
 ![unomi](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/UnoM.png)
 我们的软件测试结果和速度几分钟搞定
 ![myunomi](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/UnomiMysoft.png)
-<h2>注意如果提示软件时间到期可以更改本地时间时间改成2021-02-12-2021-02-30就可以打开软件了</h2>
+<h2>注意如果提示软件时间到期可以更改本地时间时间改成软件当前时间加半个月时间之内例如:2021-02-19 那么把本地时间改成2021-02-19-2021-03-06之间的时间就可以打开软件了</h2>
 另外扯点儿别的话题还开发了针对cms进行测试的工具。这款工具等时机成熟会放出来的暂时不放
 
 ![menu](https://forum.90sec.com/uploads/default/optimized/2X/b/b04f08fd772ede5e45145b8cf6df3e2c3067acd9_2_1248x1000.png)
