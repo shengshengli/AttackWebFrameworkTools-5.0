@@ -1,5 +1,5 @@
- <h1>AttackWebFrameworkTools 1.0 2021-02-21</h1>
- 
+  <h1>注意:切勿非法利用本工具对未授权的网站进行非法测试或者攻击。由此产生的法律后果由使用者自行承担!!!!!</h1>
+  <h1>AttackWebFrameworkTools 1.0 2021-02-21</h1>
  ![menu](https://forum.90sec.com/uploads/default/optimized/2X/c/c8a0333b3c31d28c2db90798d3344dc369965c89_2_898x998.png)
  <h1>AttackWebFrameworkTools For ReadTeam </h1>
 <p><a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost-red" style="max-width:100%;"></a>
