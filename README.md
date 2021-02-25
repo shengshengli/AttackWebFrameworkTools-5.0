@@ -3,7 +3,7 @@
   <h1>AttackWebFrameworkTools 1.0 2021-02-24</h1>
   
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/menu.png)
- <h1>AttackWebFrameworkTools For ReadTeam </h1>
+ <h1>AttackWebFrameworkTools For RedTeam </h1>
 <p><a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost-red" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-Version1.0-faa755" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="type" src="https://img.shields.io/badge/type-bin-blueviolet" style="max-width:100%;"></a>
