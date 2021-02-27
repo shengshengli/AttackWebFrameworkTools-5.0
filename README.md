@@ -90,6 +90,12 @@ vmvcenter<br/>
 </li>
 </ul>
 <h2>上图实测效果</h2>
+CVE-2021-21972 Vmware vcenter 最新漏洞测试结果
+
+![vmwareVcenter](https://forum.90sec.com/uploads/default/optimized/2X/1/12089d8e835bf4c75f7f6f2001472c25a929cc78_2_1380x680.png)<br/>
+windows主机
+![vmwareVcenter-windows](https://forum.90sec.com/uploads/default/optimized/2X/7/7271f9719369cdac95e1706a31eb402443cee3df_2_1380x868.png)<br/>
+
 通达oA一键getshell实战测试注意由于网站数量少所以采用自定义线程数来跑如果采用默认线程那么结果不准确
 
 ![tongda](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/tongda.png)<br/>
@@ -109,6 +115,7 @@ solr新增exp测试图
 ![unomi](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/UnoM.png)
 我们的软件测试结果和速度几分钟搞定
 ![myunomi](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/UnomiMysoft.png)
+
 <h2>注意如果提示软件时间到期可以更改本地时间时间改成软件当前时间加半个月时间之内例如:2021-02-19 那么把本地时间改成2021-02-19-2021-03-06之间的时间就可以打开软件了</h2>
 另外扯点儿别的话题还开发了针对cms进行测试的工具。这款工具等时机成熟会放出来的暂时不放
 
