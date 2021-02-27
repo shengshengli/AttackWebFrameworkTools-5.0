@@ -1,6 +1,6 @@
   <h1>注意:<br/>
   切勿利用本工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!</h1>
-  <h1>AttackWebFrameworkTools 1.0 2021-02-24</h1>
+  <h1>AttackWebFrameworkTools 1.0 2021-02-27</h1>
   
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/menu.png)
  <h1>AttackWebFrameworkTools For RedTeam </h1>
