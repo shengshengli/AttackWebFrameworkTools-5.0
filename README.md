@@ -93,7 +93,7 @@ vmvcenter<br/>
 CVE-2021-21972 Vmware vcenter 最新漏洞测试结果
 
 ![vmwareVcenter](https://forum.90sec.com/uploads/default/optimized/2X/1/12089d8e835bf4c75f7f6f2001472c25a929cc78_2_1380x680.png)<br/>
-windows主机
+windows主机测试
 ![vmwareVcenter-windows](https://forum.90sec.com/uploads/default/optimized/2X/7/7271f9719369cdac95e1706a31eb402443cee3df_2_1380x868.png)<br/>
 
 通达oA一键getshell实战测试注意由于网站数量少所以采用自定义线程数来跑如果采用默认线程那么结果不准确
