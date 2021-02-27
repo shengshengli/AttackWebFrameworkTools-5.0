@@ -12,7 +12,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
- <li>2021-02-27 更新CVE-2021-21972 Vmware vcenter exp</li>
+ <li>2021-02-27 新增 CVE-2021-21972 Vmware vcenter exp</li>
    <li>2021-02-24 修复thinkphp某处rce不能测试成功的bug</li>
  <li>2021-02-21 新增fastjson jenkins  exp/poc </li>
   <li>2021-02-20 新增ElasticSearch  exp/poc </li>
