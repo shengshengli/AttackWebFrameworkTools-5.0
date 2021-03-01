@@ -73,7 +73,7 @@ vmvcenter<br/>
 <ul>
  <li>切勿利用本工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!</li>
 <li>特别注意!!!!如果网站url数量很少10个之内或者20个之内一定要调低线程!!!!!AttackWebFrameworkTools.exe -type thinkphp -thread 5</li>
-<li>注意!!!!线程数不要设置太大。线程数越大结果越不准确!!!!!</li>
+<li>再次特别注意(非常非常重要):线程数不要设置太大。线程数越大结果越不准确!!!!!。会漏洞某些有漏洞的网站所以一定要调低线程!!!一定要调低线程!!!</li>
 <li>非回显漏洞采用dnslog 验证确保联网。如果在局域网不联网环境下dnslog验证的漏洞全部无法验证。
 </li>
 <li>遇到postData是jason格式时候必须 Content-type:application/json 而不是默认格式<br/></li>
