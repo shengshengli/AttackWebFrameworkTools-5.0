@@ -1,6 +1,6 @@
   <h1>注意:<br/>
   切勿利用本工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!</h1>
-  <h1>AttackWebFrameworkTools 1.0 2021-02-27</h1>
+  <h1>AttackWebFrameworkTools 1.0 2021-03-03</h1>
   
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/menu.png)
  <h1>AttackWebFrameworkTools For RedTeam </h1>
@@ -12,6 +12,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
+  <li>2021-03-03 修复某些类延时时间过短导致漏洞检测不准确。下一个版本讲调整默认线程数字预计是20或者10</li>
  <li>2021-02-27 新增 CVE-2021-21972 Vmware vcenter exp</li>
    <li>2021-02-24 修复thinkphp某处rce不能测试成功的bug</li>
  <li>2021-02-21 新增fastjson jenkins  exp/poc </li>
