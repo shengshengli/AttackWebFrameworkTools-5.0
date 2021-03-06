@@ -12,21 +12,21 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
-   <li>2021-03-06 修改默认线程数为20增加超时时间增加 DVR 摄像头exp 增加Nexus Repository Manager exp</li>
-  <li>2021-03-03 修复某些类延时时间过短导致漏洞检测不准确。下一个版本将调整默认线程数字预计是20或者10</li>
+ <li>2021-03-06 修改默认线程数为20。增加超时时间。增加DVR 摄像头exp 增加Nexus Repository Manager exp</li>
+ <li>2021-03-03 修复某些类延时时间过短导致漏洞检测不准确。下一个版本将调整默认线程数字预计是20或者10</li>
  <li>2021-02-27 新增 CVE-2021-21972 Vmware vcenter exp</li>
-   <li>2021-02-24 修复thinkphp某处rce不能测试成功的bug</li>
+ <li>2021-02-24 修复thinkphp某处rce不能测试成功的bug</li>
  <li>2021-02-21 新增fastjson jenkins  exp/poc </li>
-  <li>2021-02-20 新增ElasticSearch  exp/poc </li>
-  <li>2021-02-19 新增Drupal  exp/poc </li>
-  <li>2021-02-16 新增tomcat unomi exp/poc </li>
-  <li>2021-02-15 新增activemq exp/poc </li>
-  <li>2021-02-14 新增solr exp/poc 结果增加了cve编号和漏洞名称</li>
-  <li>2021-02-12 更新solr 4个exp/poc 动图测试效果见本页底部</li>
-  <li>2021-02-08 更新solr CVE-2019-17558 一个CVE</li>
-  <li>2021-02-05 更新Dlink</li>
-  <li>2021-02-01 更新apachedruid</li>
-  <li>.......</li>
+ <li>2021-02-20 新增ElasticSearch  exp/poc </li>
+ <li>2021-02-19 新增Drupal  exp/poc </li>
+ <li>2021-02-16 新增tomcat unomi exp/poc </li>
+ <li>2021-02-15 新增activemq exp/poc </li>
+ <li>2021-02-14 新增solr exp/poc 结果增加了cve编号和漏洞名称</li>
+ <li>2021-02-12 更新solr 4个exp/poc 动图测试效果见本页底部</li>
+ <li>2021-02-08 更新solr CVE-2019-17558 一个CVE</li>
+ <li>2021-02-05 更新Dlink</li>
+ <li>2021-02-01 更新apachedruid</li>
+ <li>.......</li>
  </ul>
 <h2>工具编写背景:</h2>
 <ul>
