@@ -2,7 +2,7 @@
   切勿利用本工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!</h1>
   <h1>AttackWebFrameworkTools 1.0 2021-03-06</h1>
   
- ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/menu.png)
+ ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/menu.jpg)
  <h1>AttackWebFrameworkTools For RedTeam </h1>
 <p><a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost-red" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-Version1.0-faa755" style="max-width:100%;"></a>
