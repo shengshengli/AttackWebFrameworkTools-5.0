@@ -45,7 +45,8 @@
 <ul>
 AttackWebFrameworkTools 使用说明<br/>
 url.txt 中网站一行一个且必须以http:// https:// 开头<br/>
-AttackWebFrameworkTools.exe 所有exp都跑<br/>
+AttackWebFrameworkTools.exe 所有exp都跑使用默认线程模式<br/>
+  AttackWebFrameworkTools.exe  -thread 200 所有exp都跑使用自定义线程模式<br/>
 AttackWebFrameworkTools.exe -type thinkphp 使用默认线程跑 thinkphp框架漏洞使用说明<br/>
 AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线程跑 thinkphp框架漏洞<br/>
 集成漏洞如下(-type参数) <br/>
