@@ -1,5 +1,10 @@
   <h1>注意:<br/>
   切勿利用本工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!</h1>
+  <h1>软件更新播报早知道软件版本更新功能预告</h1>
+  <ul>
+   <li>下一版本将根据网站数量自动设置线程数量。将增加jboss所有漏洞的检测和java反序列化漏洞利用链</li>
+   <li>2021-03-03 修复某些类延时时间过短导致漏洞检测不准确。下一个版本将调整默认线程数字预计是20或者10</li>
+  </ul>
   <h1>AttackWebFrameworkTools 1.0 2021-03-06</h1>
   
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/menu.png)
@@ -14,7 +19,6 @@
 <ul>
   
  <li>2021-03-06 新增DVR 摄像头exp 新增Nexus Repository Manager exp。修改默认线程数为20。增加超时时间。增加界面显示shell的路径。修复cookie bug</li>
- <li>2021-03-03 修复某些类延时时间过短导致漏洞检测不准确。下一个版本将调整默认线程数字预计是20或者10</li>
  <li>2021-02-27 新增 CVE-2021-21972 Vmware vcenter exp</li>
  <li>2021-02-24 修复thinkphp某处rce不能测试成功的bug</li>
  <li>2021-02-21 新增fastjson jenkins  exp/poc </li>
