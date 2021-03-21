@@ -17,7 +17,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
-  
+   <li>2021-03-21 新增solr 全版本任意文件读取漏洞，新增F5 Big IP CVE-2021-22986 RCE Exp</li>
  <li>2021-03-06 新增DVR 摄像头exp 新增Nexus Repository Manager exp。修改默认线程数为20。增加超时时间。增加界面显示shell的路径。修复cookie bug</li>
  <li>2021-02-27 新增 CVE-2021-21972 Vmware vcenter exp</li>
  <li>2021-02-24 修复thinkphp某处rce不能测试成功的bug</li>
@@ -76,7 +76,8 @@ fastjson<br/>
 jenkins<br/>
 vmvcenter<br/>
 webcam<br/>
-nexus<br/> 
+nexus<br/>
+bigip<br/> 
 如果会在软件同目录下生产shell.txt。攻击不成功则不会生成。DVR 如果跑出来密码是空的那么说明不需要密码只要用户名登陆即可。注意webcam为摄像头漏洞合集类如果以后摄像头有新漏洞那么就在webcma这个参数里面
 </ul>
 <h2>软件使用注意事项</h2>
