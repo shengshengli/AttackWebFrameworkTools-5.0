@@ -16,6 +16,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
+    <li>2021-03-28 新增 CNVD-2021-10543 MessageSolution信息泄露漏洞,新增Apache OFBiz CVE-2021-26295,CVE-2020-9496,新增jboss除JBoss seam2模板注入漏洞外的所有漏洞  </li>
    <li>2021-03-21 新增solr 全版本任意文件读取漏洞，新增F5 Big IP CVE-2021-22986 RCE Exp</li>
  <li>2021-03-06 新增DVR 摄像头exp 新增Nexus Repository Manager exp。修改默认线程数为20。增加超时时间。增加界面显示shell的路径。修复cookie bug</li>
  <li>2021-02-27 新增 CVE-2021-21972 Vmware vcenter exp</li>
