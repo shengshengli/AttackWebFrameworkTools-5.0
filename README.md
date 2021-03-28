@@ -105,7 +105,11 @@ jboss<br/>
 </ul>
 <h2>注意如果提示软件时间到期可以更改本地时间时间改成软件当前时间加半个月时间之内例如:2021-02-19 那么把本地时间改成2021-02-19-2021-03-06之间的时间就可以打开软件了</h2>
 <h2>上图实测效果</h2>
-CVE-2021-21972 Vmware vcenter 最新漏洞测试结果
+jboss漏洞测试图
+
+![jboss](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/Jboss.png)<br/>
+
+CVE-2021-21972 Vmware vcenter 最新漏洞测试结果<br/>
 
 ![vmwareVcenter](https://forum.90sec.com/uploads/default/optimized/2X/1/12089d8e835bf4c75f7f6f2001472c25a929cc78_2_1380x680.png)<br/>
 windows主机测试
