@@ -16,6 +16,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
+     <li>2021-04-03 新增三星路由器任意文件读取,rce,默认密码漏洞。修复已知bug支持 类似 http://wwww.baidu.com/aaaa/ 这种域名方式 .</li>
     <li>2021-03-28 新增 CNVD-2021-10543 MessageSolution信息泄露漏洞,新增Apache OFBiz CVE-2021-26295,CVE-2020-9496,新增jboss除JBoss seam2模板注入漏洞外的所有漏洞  </li>
    <li>2021-03-21 新增solr 全版本任意文件读取漏洞，新增F5 Big IP CVE-2021-22986 RCE Exp</li>
  <li>2021-03-06 新增DVR 摄像头exp 新增Nexus Repository Manager exp。修改默认线程数为20。增加超时时间。增加界面显示shell的路径。修复cookie bug</li>
@@ -65,7 +66,7 @@ tongdaoa<br/>
 apacheflink<br/>
 ruijie<br/>
 apachedruid<br/>
-dlink<br/>
+router(dlink,三星路由器)<br/>
 solr<br/>
 activemq<br/>
 tomcat<br/>
@@ -75,13 +76,13 @@ es<br/>
 fastjson<br/>
 jenkins<br/>
 vmvcenter<br/>
-webcam<br/>
+webcam(DVR摄像头)<br/>
 nexus<br/>
 bigip<br/>
 messasolu<br/>
 ofbiz<br/>
 jboss<br/>
-如果会在软件同目录下生产shell.txt。攻击不成功则不会生成。DVR 如果跑出来密码是空的那么说明不需要密码只要用户名登陆即可。注意webcam为摄像头漏洞合集类如果以后摄像头有新漏洞那么就在webcam这个参数里面
+如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
 <ul>
