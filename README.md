@@ -91,9 +91,8 @@ springboot<br/>
 <h2>软件使用注意事项</h2>
 <ul>
  <li>切勿利用本工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!</li>
-<li>特别注意!!!!如果网站url数量很少10个之内或者20个之内一定要调低线程!!!!!AttackWebFrameworkTools.exe -type thinkphp -thread 5</li>
-<li>再次特别注意(非常非常重要):线程数不要设置太大。线程数越大结果越不准确!!!!!。会漏洞某些有漏洞的网站所以一定要调低线程!!!一定要调低线程!!!</li>
-<li>非回显漏洞采用dnslog 验证确保联网。如果在局域网不联网环境下dnslog验证的漏洞全部无法验证。
+<li>注意(非常非常重要):线程数不要设置太大。线程数越大结果越不准确!!!!!。尽量调低线程数字或者就用默认线程跑就行了!!!!</li>
+<li>非回显漏洞采用dnslog 验证确保联网。如果在局域网不联网环境下dnslog验证的漏洞全部无法验证。采用dnslog验证如果icmp不出网可能会漏掉某些有漏洞的网站
 </li>
 <li>遇到postData是jason格式时候必须 Content-type:application/json 而不是默认格式<br/></li>
 <li>Dlink漏洞需要有AttackWebFrameworkTools.exe.config 并且一个网站一分钟内最多可以检测三次超过三次即使漏洞存在也检测不到 这个目前反弹shell方式不清楚<br/></li>
