@@ -2,7 +2,8 @@
   切勿利用本工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!</h1>
   <h1>软件更新早知道</h1>
   <ul>
-  <li>下一版本将补weblogic漏洞将新增spring data  Spring Cloud shiro框架判断 springboot信息泄露 等漏洞敬请期待!!!!</li>
+  <li>下次更新将补weblogic漏洞将新增spring data  Spring Cloud 等漏洞敬请期待!!!!</li>
+  <li>已增加 shiro框架判断 springboot信息泄露 </li>
   </ul>
   <h1>AttackWebFrameworkTools 1.0 2021-03-06</h1>
   
