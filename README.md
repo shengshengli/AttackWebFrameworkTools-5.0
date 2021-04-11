@@ -89,7 +89,7 @@ jboss<br/>
 shiro<br/>
 weaveroa<br/>
 cms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录)<br/>
-firewall(360新天擎sql注入,360新天擎未授权接口访问,奇安信 网康防火墙 代码执行)<br/>
+firewall(360新天擎sql注入(线程调到最低!!!测试否则会漏洞网站),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行)<br/>
 seeyonoa<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
