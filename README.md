@@ -113,7 +113,7 @@ seeyonoa<br/>
 </ul>
 <h2>注意如果提示软件时间到期可以更改本地时间时间改成软件当前时间加半个月时间之内例如:2021-02-19 那么把本地时间改成2021-02-19-2021-03-06之间的时间就可以打开软件了</h2>
 <h2>上图实测效果</h2>
-HVV漏洞测试 360新天擎注入
+HVV部分漏洞实战测试 360新天擎注入
 
 ![360天擎](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/360%E5%A4%A9%E6%93%8E%E6%B3%A8%E5%85%A5%E5%AF%B9%E6%AF%94.png)<br/>
 
