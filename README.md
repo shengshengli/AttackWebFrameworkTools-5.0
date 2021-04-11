@@ -19,6 +19,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
+<li>2021-04-11 更新hv热门漏洞9个,修复springboot框架识别</li>
   <li>2021-04-04 新增D-Link-DCS-CVE-2020-25078 Exp ,新增shiro框架检查,新增springboot信息泄露</li>
  <li>2021-04-03 新增三星路由器(WLAN AP WEA453e )任意文件读取,rce,默认密码漏洞。修复已知bug支持 类似 http://wwww.baidu.com/aaaa/ 这种域名方式,大部分支持如果有的漏洞不支持可以反馈我邮件提供type参数我修复一下</li>
  <li>2021-03-28 新增 CNVD-2021-10543 MessageSolution信息泄露漏洞,新增Apache OFBiz CVE-2021-26295,CVE-2020-9496,新增jboss除JBoss seam2模板注入漏洞外的所有漏洞  </li>
