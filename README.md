@@ -2,8 +2,9 @@
   切勿利用本工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!</h1>
   <h1>软件更新早知道</h1>
   <ul>
-  <li>下次更新将补weblogic漏洞将新增spring data  Spring Cloud 等漏洞敬请期待!!!!</li>
-  <li>已增加 shiro框架判断 springboot信息泄露 </li>
+ <li>下次更新将补weblogic漏洞将新增spring data  Spring Cloud 等漏洞敬请期待!!!!</li>
+ <li>更新近期HVV热门漏洞 泛微9 任意文件上传漏洞,泛微8 sql注入漏洞，帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录</li>
+<li>更新近期HVV热门漏洞 360新天擎sql注入,360新天擎未授权接口访问,奇安信 网康防火墙 代码执行,致远oa 解压上传漏洞 合并之前 A8 文件写入。和hmloffice漏洞</li>
   </ul>
   <h1>AttackWebFrameworkTools 1.0 2021-03-06</h1>
   
@@ -85,7 +86,10 @@ messasolu<br/>
 ofbiz<br/>
 jboss<br/>
 shiro<br/>
-springboot<br/>
+weaveroa<br/>
+cms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录)<br/>
+firewall(360新天擎sql注入,360新天擎未授权接口访问,奇安信 网康防火墙 代码执行)<br/>
+seeyonoa<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
@@ -146,4 +150,3 @@ solr新增exp测试图
 ![menu](https://forum.90sec.com/uploads/default/optimized/2X/6/6ea0808a2eebfc7ec8c4b6aac0c4ae8e47bd4759_2_1246x998.jpeg)
 测试
 ![menu](https://forum.90sec.com/uploads/default/optimized/2X/b/b545a978dccb5c41fa1417f2ae0ac5806652e62f_2_1326x1000.jpeg)
-
