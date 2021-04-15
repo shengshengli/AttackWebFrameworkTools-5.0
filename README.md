@@ -8,7 +8,8 @@
 <li>更新近期HVV热门漏洞 360新天擎sql注入(用一个线程跑出结果,一个以上网站少无法跑出结果),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行,致远oa 解压上传漏洞 合并之前 A8 文件写入。和hmloffice漏洞</li>
   </ul>
   <h1>AttackWebFrameworkTools 1.0 2021-03-06</h1>
-  
+  软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!
+
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/menu.png)
  <h1>AttackWebFrameworkTools For RedTeam </h1>
 <p><a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost-red" style="max-width:100%;"></a>
