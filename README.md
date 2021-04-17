@@ -4,6 +4,7 @@
   <ul>
  <li>下次更新将补weblogic漏洞将新增spring data  Spring Cloud 等漏洞敬请期待!!!!</li>
   <li>软件2.0重构版即将登场修复多个存在的已经bug。重构内置结构!!!!!!!</li>
+  <li>2.0重构版 将增加4个漏洞(亿邮电子邮件系统 rce ,用友 GRP 8 sql注入, 红帆oA sql注入漏洞, 泛微 Emoblie 6.6 RCE)不确定漏洞写入MaybeVul.txt中,增加这个是为了如果目标站有waf我的的shell被杀。或者执行某些命令被杀可以记录方便手工绕过!!!!!</li>
  
   </ul>
   <h1>AttackWebFrameworkTools 1.0 2021-03-06</h1>
