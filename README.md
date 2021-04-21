@@ -3,7 +3,7 @@
   <h1>软件更新早知道</h1>
   <ul>
  <li>下次更新将补weblogic漏洞将新增spring data  Spring Cloud 等漏洞敬请期待!!!!</li>
- <li>即将加入勾选功能例如可以只检测thinkphp和cms这两个类型</li>
+ <li>即将加入勾选功能例如可以只检测thinkphp和cms这两个类型。并且修复issue:EASY提交的误报问题。感谢EASY提交!!!敬请期待</li>
   </ul>
   <h1>AttackWebFrameworkTools 2.0 2021-04-17</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,可能会有误报但增加成功率!!!争取把遗漏率降到最低!!!
