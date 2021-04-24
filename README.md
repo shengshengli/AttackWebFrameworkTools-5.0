@@ -19,7 +19,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
-  <li>2021-04-20 增加勾选功能(使用见:软件使用注意事项)。。并且修复issue:EASY提交的误报问题:下一代云桌面,activemq,锐捷网络-EWEB这三个漏洞的误报问题。同时加入了对gov edu域名的检测出现直接丢弃。另外加入金山 V8 终端安全系统rce和任意文件读取漏洞。再次感谢EASY 提供的建议。</li>
+  <li>2021-04-24 增加勾选功能(使用见:软件使用注意事项)。。并且修复issue:EASY提交的误报问题:下一代云桌面,activemq,锐捷网络-EWEB这三个漏洞的误报问题。同时加入了对gov edu域名的检测出现直接丢弃。另外加入金山 V8 终端安全系统rce和任意文件读取漏洞。再次感谢EASY 提供的建议。</li>
   <li>2021-04-18 2.0重构版 增加4个漏洞(亿邮电子邮件系统 rce ,用友 GRP 8 sql注入, 红帆oA sql注入漏洞, 泛微 Emoblie 6.6 RCE)不确定漏洞写入MaybeVul.txt中,增加这个是为了如果目标站有waf我们的shell被杀。或者执行某些命令被waf拦截可以记录方便手工绕过!!!!!泛微emobile归类有问题下次更新将调到泛微类里面!!!!</li>
 <li>2021-04-11 更新hv热门漏洞9个,更新近期HVV热门漏洞 泛微9 任意文件上传漏洞,泛微8 sql注入漏洞，帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录,360新天擎sql注入(用一个线程跑出结果,一个以上网站少无法跑出结果),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行,致远oa 解压上传漏洞 合并之前 A8 文件写入。和hmloffice漏洞修复springboot框架识别</li>
   <li>2021-04-04 新增D-Link-DCS-CVE-2020-25078 Exp ,新增shiro框架检查,新增springboot信息泄露</li>
