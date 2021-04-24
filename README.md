@@ -3,10 +3,10 @@
   <h1>软件更新早知道</h1>
   <ul>
  <li>下次更新将补weblogic漏洞将新增spring data  Spring Cloud 等漏洞敬请期待!!!!</li>
- <li>即将加入勾选功能例如可以只检测thinkphp和cms这两个类型。并且修复issue:EASY提交的误报问题。感谢EASY提交!!!敬请期待</li>
   </ul>
   <h1>AttackWebFrameworkTools 2.0 2021-04-17</h1>
-  软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,可能会有误报但增加成功率!!!争取把遗漏率降到最低!!!
+  软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定误报但增加成功率!!!争取把遗漏率降到最低!!!
+  如果软件有误报请把测试网站私发到我邮箱Anonymous-ghost@qq.com
 
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/menu.png)
  <h1>AttackWebFrameworkTools For RedTeam </h1>
@@ -18,6 +18,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
+  <li>2021-04-20 增加勾选功能。。并且修复issue:EASY提交的误报问题:下一代云桌面,activemq,锐捷网络-EWEB这三个漏洞的误报问题。同时加入了对gov edu域名的检测出现直接丢弃。另外加入金山 V8 终端安全系统rce和任意文件读取漏洞。再次感谢EASY 提供的建议。</li>
   <li>2021-04-18 2.0重构版 增加4个漏洞(亿邮电子邮件系统 rce ,用友 GRP 8 sql注入, 红帆oA sql注入漏洞, 泛微 Emoblie 6.6 RCE)不确定漏洞写入MaybeVul.txt中,增加这个是为了如果目标站有waf我们的shell被杀。或者执行某些命令被waf拦截可以记录方便手工绕过!!!!!泛微emobile归类有问题下次更新将调到泛微类里面!!!!</li>
 <li>2021-04-11 更新hv热门漏洞9个,更新近期HVV热门漏洞 泛微9 任意文件上传漏洞,泛微8 sql注入漏洞，帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录,360新天擎sql注入(用一个线程跑出结果,一个以上网站少无法跑出结果),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行,致远oa 解压上传漏洞 合并之前 A8 文件写入。和hmloffice漏洞修复springboot框架识别</li>
   <li>2021-04-04 新增D-Link-DCS-CVE-2020-25078 Exp ,新增shiro框架检查,新增springboot信息泄露</li>
@@ -89,10 +90,10 @@ ofbiz<br/>
 jboss<br/>
 shiro<br/>
 springboot<br/>
-weaveroa(泛微OA)<br/>
-cms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录，红帆oA)<br/>
+weaveroa(泛微OA,泛微 Emoblie 6.6 RCE)<br/>
+cms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录，红帆oA,金山 V8 终端安全系统)<br/>
 firewall(360新天擎sql注入(线程调到最低!!!测试否则会漏洞网站),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行)<br/>
-seeyonoa(泛微 Emoblie 6.6 RCE,致远OA)<br/>
+seeyonoa(致远OA)<br/>
 yongyou<br/>
 eyou<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
@@ -100,6 +101,7 @@ eyou<br/>
 <h2>软件使用注意事项</h2>
 <ul>
  <li>切勿利用本工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!</li>
+  <li>2021-04-24加入勾选功能如果需要使用勾选功能在同目录创建include.txt里面加入自定义的检测类型即可。线程设置和全选一样直接设置即可</li>
 <li>注意(非常非常重要):线程数不要设置太大。线程数越大结果越不准确!!!!!。尽量调低线程数字或者就用默认线程跑就行了!!!!</li>
 <li>非回显漏洞采用dnslog 验证确保联网。如果在局域网不联网环境下dnslog验证的漏洞全部无法验证。采用dnslog验证如果icmp不出网可能会漏掉某些有漏洞的网站
 </li>
@@ -117,6 +119,9 @@ eyou<br/>
 </ul>
 <h2>注意如果提示软件时间到期可以更改本地时间时间改成软件当前时间加半个月时间之内例如:2021-02-19 那么把本地时间改成2021-02-19-2021-03-06之间的时间就可以打开软件了</h2>
 <h2>上图实测效果</h2>
+勾选功能演示
+
+![勾选功能](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/include.png)<br/>
 HVV部分漏洞实战测试 360新天擎注入
 
 ![360天擎](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/360%E5%A4%A9%E6%93%8E%E6%B3%A8%E5%85%A5%E5%AF%B9%E6%AF%94.png)<br/>
