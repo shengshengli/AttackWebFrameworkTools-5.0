@@ -6,8 +6,8 @@
    <li>将查漏补缺hvv高危漏洞敬请期待!!!!</li>
   </ul>
   <h1>AttackWebFrameworkTools 2.0 2021-04-17</h1>
-  软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定误报但增加成功率!!!争取把遗漏率降到最低!!!
-  如果软件有误报请把测试网站私发到我邮箱Anonymous-ghost@qq.com
+  软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!
+  如果软件有误报请把测试网站私发到我邮箱Anonymous-ghost@qq.com。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓
 
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/menu.png)
  <h1>AttackWebFrameworkTools For RedTeam </h1>
