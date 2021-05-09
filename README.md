@@ -4,6 +4,7 @@
   <ul>
  <li>下次更新将补weblogic漏洞将新增spring data  Spring Cloud 等漏洞敬请期待!!!!</li>
    <li>将查漏补缺hvv高危漏洞敬请期待!!!!</li>
+   <li>近半年要深入学习代码审计,软件可能更新较慢。下周计划加入新漏洞敬请期待感谢大家对本软件的支持!!!!</li>
   </ul>
   <h1>AttackWebFrameworkTools 2.0 2021-04-17</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!
@@ -19,6 +20,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
+  <li>2021-05-09 更新CVE-2021-30461 voip monitor rce漏洞 </li>
   <li>2021-04-24 增加勾选功能(使用见:软件使用注意事项)。。并且修复issue:EASY提交的误报问题:下一代云桌面,activemq,锐捷网络-EWEB这三个漏洞的误报问题。同时加入了对gov edu域名的检测出现直接丢弃。另外加入金山 V8 终端安全系统rce和任意文件读取漏洞。再次感谢EASY 提供的建议。</li>
   <li>2021-04-18 2.0重构版 增加4个漏洞(亿邮电子邮件系统 rce ,用友 GRP 8 sql注入, 红帆oA sql注入漏洞, 泛微 Emoblie 6.6 RCE)不确定漏洞写入MaybeVul.txt中,增加这个是为了如果目标站有waf我们的shell被杀。或者执行某些命令被waf拦截可以记录方便手工绕过!!!!!泛微emobile归类有问题下次更新将调到泛微类里面!!!!</li>
 <li>2021-04-11 更新hv热门漏洞9个,更新近期HVV热门漏洞 泛微9 任意文件上传漏洞,泛微8 sql注入漏洞，帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录,360新天擎sql注入(用一个线程跑出结果,一个以上网站少无法跑出结果),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行,致远oa 解压上传漏洞 合并之前 A8 文件写入。和hmloffice漏洞修复springboot框架识别</li>
@@ -97,6 +99,7 @@ firewall(360新天擎sql注入(线程调到最低!!!测试否则会漏洞网站)
 seeyonoa(致远OA)<br/>
 yongyou<br/>
 eyou<br/>
+voip<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
@@ -123,6 +126,10 @@ eyou<br/>
 勾选功能演示
 
 ![勾选功能](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/include.png)<br/>
+
+CVE-2021-30461 VOIP Monitor RCE 演示截图
+
+![voip](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/voip.png)<br/>
 HVV部分漏洞实战测试 360新天擎注入
 
 ![360天擎](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/360%E5%A4%A9%E6%93%8E%E6%B3%A8%E5%85%A5%E5%AF%B9%E6%AF%94.png)<br/>
