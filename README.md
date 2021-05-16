@@ -5,6 +5,7 @@
  <li>下次更新将补weblogic漏洞将新增spring data  Spring Cloud 等漏洞敬请期待!!!!</li>
    <li>将查漏补缺hvv高危漏洞敬请期待!!!!</li>
    <li>近半年要深入学习代码审计,软件可能更新较慢。下周计划加入新漏洞敬请期待感谢大家对本软件的支持!!!!</li>
+  <li>有人问软件是否考虑开源,以后可能会考虑开放源代码。但是是小范围传播。以后计划会弄一个圈子分享我本人收集的源码。代码审计,实战渗透测试等东西一起交流学习!!!</li>
   </ul>
   <h1>AttackWebFrameworkTools 2.0 2021-04-17</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!
@@ -20,6 +21,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
+  <li>2021-05-16 更新thinkcmf文件包含漏洞rce版本 1.6<thinkcmf<2.3.0 一键getshell无视宝塔防火墙。阿里云等waf </li>
   <li>2021-05-09 更新CVE-2021-30461 voip monitor rce漏洞 </li>
   <li>2021-04-24 增加勾选功能(使用见:软件使用注意事项)。。并且修复issue:EASY提交的误报问题:下一代云桌面,activemq,锐捷网络-EWEB这三个漏洞的误报问题。同时加入了对gov edu域名的检测出现直接丢弃。另外加入金山 V8 终端安全系统rce和任意文件读取漏洞。再次感谢EASY 提供的建议。</li>
   <li>2021-04-18 2.0重构版 增加4个漏洞(亿邮电子邮件系统 rce ,用友 GRP 8 sql注入, 红帆oA sql注入漏洞, 泛微 Emoblie 6.6 RCE)不确定漏洞写入MaybeVul.txt中,增加这个是为了如果目标站有waf我们的shell被杀。或者执行某些命令被waf拦截可以记录方便手工绕过!!!!!泛微emobile归类有问题下次更新将调到泛微类里面!!!!</li>
@@ -100,6 +102,7 @@ seeyonoa(致远OA)<br/>
 yongyou<br/>
 eyou<br/>
 voip<br/>
+thinkcmf<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
