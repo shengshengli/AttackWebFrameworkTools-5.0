@@ -26,7 +26,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
-  <li>2021-05-16 更新thinkcmf文件包含漏洞rce版本 1.6<thinkcmf<2.3.0 一键getshell无视宝塔防火墙。阿里云等waf </li>
+  <li>2021-05-16 更新thinkcmf文件包含漏洞rce版本thinkcmf版本小于2.3.0大于1.6 可以无视宝塔防火墙。阿里云等waf 目录无权限。过滤转义单双引号等拦截一键getshell </li>
   <li>2021-05-09 更新CVE-2021-30461 voip monitor rce漏洞 </li>
   <li>2021-04-24 增加勾选功能(使用见:软件使用注意事项)。。并且修复issue:EASY提交的误报问题:下一代云桌面,activemq,锐捷网络-EWEB这三个漏洞的误报问题。同时加入了对gov edu域名的检测出现直接丢弃。另外加入金山 V8 终端安全系统rce和任意文件读取漏洞。再次感谢EASY 提供的建议。</li>
   <li>2021-04-18 2.0重构版 增加4个漏洞(亿邮电子邮件系统 rce ,用友 GRP 8 sql注入, 红帆oA sql注入漏洞, 泛微 Emoblie 6.6 RCE)不确定漏洞写入MaybeVul.txt中,增加这个是为了如果目标站有waf我们的shell被杀。或者执行某些命令被waf拦截可以记录方便手工绕过!!!!!泛微emobile归类有问题下次更新将调到泛微类里面!!!!</li>
