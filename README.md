@@ -25,7 +25,7 @@
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"><img alt="Release" src="https://img.shields.io/badge/language-C%23/C++-ff69b4.svg" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer"><img  alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Anonymous-ghost/AttackWebFrameworkTools?color=gree" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
-<h2>更新状态日志:</h2>
+<h2>更新日志:</h2>
 <ul>
   <li>2021-05-23 更新泛微OA /weaver/weaver.common.Ctrl 任意文件上传漏洞,h3c intelligent management Rce,蓝海卓越2015版宽带计费系统RCE,Dlink密码泄露漏洞(CVE-2019-17506),启莱OAsql注入漏洞</li>
   <li>2021-05-16 更新thinkcmf文件包含漏洞rce版本thinkcmf版本小于2.3.0大于1.6 可以无视宝塔防火墙。阿里云等waf 目录无权限。过滤转义单双引号等拦截一键getshell </li>
