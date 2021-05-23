@@ -26,6 +26,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新状态日志:</h2>
 <ul>
+  <li>2021-05-23 更新泛微OA /weaver/weaver.common.Ctrl 任意文件上传漏洞,h3c intelligent management Rce,蓝海卓越2015版宽带计费系统RCE,Dlink密码泄露漏洞(CVE-2019-17506),启莱OAsql注入漏洞</li>
   <li>2021-05-16 更新thinkcmf文件包含漏洞rce版本thinkcmf版本小于2.3.0大于1.6 可以无视宝塔防火墙。阿里云等waf 目录无权限。过滤转义单双引号等拦截一键getshell </li>
   <li>2021-05-09 更新CVE-2021-30461 voip monitor rce漏洞 </li>
   <li>2021-04-24 增加勾选功能(使用见:软件使用注意事项)。。并且修复issue:EASY提交的误报问题:下一代云桌面,activemq,锐捷网络-EWEB这三个漏洞的误报问题。同时加入了对gov edu域名的检测出现直接丢弃。另外加入金山 V8 终端安全系统rce和任意文件读取漏洞。再次感谢EASY 提供的建议。</li>
@@ -82,7 +83,7 @@ tongdaoa<br/>
 apacheflink<br/>
 ruijie<br/>
 apachedruid<br/>
-router(dlink rce漏洞,三星路由器)<br/>
+router(dlink rce漏洞,三星路由器,dlink密码泄露)<br/>
 solr<br/>
 activemq<br/>
 tomcat<br/>
@@ -102,12 +103,14 @@ shiro<br/>
 springboot<br/>
 weaveroa(泛微OA,泛微 Emoblie 6.6 RCE)<br/>
 cms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录，红帆oA,金山 V8 终端安全系统)<br/>
-firewall(360新天擎sql注入(线程调到最低!!!测试否则会漏洞网站),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行)<br/>
+firewall(360新天擎sql注入(线程调到最低!!!测试否则会漏洞网站),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行),启莱OAsql注入漏洞<br/>
 seeyonoa(致远OA)<br/>
 yongyou<br/>
 eyou<br/>
 voip<br/>
 thinkcmf<br/>
+natshell(蓝海卓越宽带计费系统)<br/>
+h3c(h3c intelligent management)<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
