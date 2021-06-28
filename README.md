@@ -4,7 +4,7 @@
   <h1>软件更新早知道</h1>
   <ul>
   <li>满血复活接下来陆续更新漏洞,敬请期待!!!!</li>
-<li>下次更新将补weblogic漏洞将新增spring data  Spring Cloud 等漏洞敬请期待!!!!</li>
+<li>下次更新将补weblogic漏洞将新增spring data  Spring Cloud 等漏洞或者更新前一个月爆出的高危漏洞敬请期待!!!!</li>
   
   </ul>
   <h1>issue和私信问题答疑和未来打算</h1>
