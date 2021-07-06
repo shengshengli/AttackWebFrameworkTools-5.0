@@ -146,7 +146,7 @@ ezoffice(万户ezOFFICE上传漏洞)<br/>
 </ul>
 <h2>注意如果提示软件时间到期可以更改本地时间时间改成软件当前时间加半个月时间之内例如:2021-02-19 那么把本地时间改成2021-02-20-2021-03-06之间的时间就可以打开软件了</h2>
 <h2>上图实测效果</h2>
-网动统一通信平台(Active UC) 045 漏洞实战一键getshell
+网东统一通信平台 045 漏洞实战一键getshell
 
 ![045漏洞实战](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/action.png)<br/>
 勾选功能演示
