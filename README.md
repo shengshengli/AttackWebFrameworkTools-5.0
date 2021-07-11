@@ -29,6 +29,12 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新日志:</h2>
 <ul>
+  <li>2021-07-11 Yapi Rce漏洞,飞鱼星路由器信息泄露(router),ACTI Camera 任意文件读取漏洞(webcam),Nacos 弱口令 未授权,
+Apache Kylin Console弱口令,Atlassian Jira 信息泄露漏洞 CVE-2020-14181，中国移动 禹路由未获授权访问,密码敏感信息泄露(router)
+coremail 任意文件上传漏洞,信息泄露漏洞， D-Link ShareCenter DNS-320 rce(router)，海康威视流媒体密码泄露,任意文件读取(webcam),
+Dlink 弱密码(router),浙江大华DSS  任意文件下载(webcam),FineReport（帆软）报表系统目录遍历漏洞(cms)，
+Finetree-5MP-摄像机 未授权添加账号密码,弱密码
+</li>
   <li>2021-06-28 更新用友UFiDa bshservlet rce漏洞,更新万户ezoffice文件上传漏洞</li>
   <li>2021-05-23 更新泛微OA /weaver/weaver.common.Ctrl 任意文件上传漏洞,h3c intelligent management Rce,蓝海卓越2015版宽带计费系统RCE,Dlink密码泄露漏洞(CVE-2019-17506),启莱OAsql注入漏洞</li>
   <li>2021-05-16 更新thinkcmf文件包含漏洞rce版本thinkcmf版本小于2.3.0大于1.6 可以无视宝塔防火墙。阿里云等waf 目录无权限。过滤转义单双引号等拦截一键getshell </li>
@@ -89,7 +95,7 @@ tongdaoa<br/>
 apacheflink<br/>
 ruijie<br/>
 apachedruid<br/>
-router(dlink rce漏洞,三星路由器,dlink密码泄露)<br/>
+router(dlink rce漏洞,三星路由器,dlink密码泄露,飞鱼星路由器信息泄露,中国移动 禹路由未获授权访问,密码敏感信息泄露, D-Link ShareCenter DNS-320 rce,Dlink 弱密码)<br/>
 solr<br/>
 activemq<br/>
 tomcat<br/>
@@ -99,7 +105,8 @@ es<br/>
 fastjson<br/>
 jenkins<br/>
 vmvcenter<br/>
-webcam(DVR摄像头,D-Link-DCS)<br/>
+webcam(DVR摄像头,D-Link-DCS,ACTI Camera 任意文件读取漏洞,海康威视流媒体密码泄露,任意文件读取,浙江大华DSS  任意文件下载,
+  Finetree-5MP-摄像机 未授权添加账号密码,弱密码)<br/>
 nexus<br/>
 bigip<br/>
 messasolu<br/>
@@ -109,7 +116,7 @@ shiro<br/>
 springboot<br/>
 weaveroa(泛微OA,泛微 Emoblie 6.6 RCE)<br/>
 cms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录，红帆oA,金山 V8 终端安全系统,启莱OAsql注入漏洞)<br/>
-firewall(360新天擎sql注入(线程调到最低!!!测试否则会漏洞网站),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行)<br/>
+firewall(360新天擎sql注入(线程调到最低!!!测试否则会漏洞网站),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行,FineReport（帆软）报表系统目录遍历漏洞)<br/>
 seeyonoa(致远OA)<br/>
 yongyougrp((用友GRP))<br/>
 eyou<br/>
@@ -119,6 +126,11 @@ natshell(蓝海卓越宽带计费系统)<br/>
 h3c(h3c intelligent management)<br/>
 yongyouuf(用友UFiDa BshServlet rce)<br/>
 ezoffice(万户ezOFFICE上传漏洞)<br/> 
+yapi<br/>
+nacos<br/>
+apachekylin<br/>
+atlassianjira<br/>
+coremail<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
@@ -146,6 +158,10 @@ ezoffice(万户ezOFFICE上传漏洞)<br/>
 </ul>
 <h2>注意如果提示软件时间到期可以更改本地时间时间改成软件当前时间加半个月时间之内例如:2021-02-19 那么把本地时间改成2021-02-20-2021-03-06之间的时间就可以打开软件了</h2>
 <h2>上图实测效果</h2>
+YAPI RCE 漏洞实战测试
+
+![YAPI RCE](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/Yapi.png)<br/>
+
 网东统一通信平台 045 漏洞实战一键getshell
 
 ![045漏洞实战](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/action.png)<br/>
