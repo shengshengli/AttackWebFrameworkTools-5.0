@@ -29,7 +29,7 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新日志:</h2>
 <ul>
-  <li>2021-07-11 Yapi Rce漏洞,飞鱼星路由器信息泄露(router),ACTI Camera 任意文件读取漏洞(webcam),Nacos 弱口令 未授权,
+  <li>2021-07-11 修复能多开的bug,更新:Yapi Rce漏洞,飞鱼星路由器信息泄露(router),ACTI Camera 任意文件读取漏洞(webcam),Nacos 弱口令 未授权,
 Apache Kylin Console弱口令,Atlassian Jira 信息泄露漏洞 CVE-2020-14181，中国移动 禹路由未获授权访问,密码敏感信息泄露(router)
 coremail 任意文件上传漏洞,信息泄露漏洞， D-Link ShareCenter DNS-320 rce(router)，海康威视流媒体密码泄露,任意文件读取(webcam),
 Dlink 弱密码(router),浙江大华DSS  任意文件下载(webcam),FineReport（帆软）报表系统目录遍历漏洞(cms)，
