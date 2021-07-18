@@ -30,6 +30,8 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新日志:</h2>
 <ul>
+  <li>2021-07-18 致远OA htmloffice 误报修复,spring boot探测误报修复,Apache Kylin弱口令误报修复,新增蓝凌OA 前台getshell,任意文件读取，
+致远OA FastJson 漏洞,致远OA任意文件下载漏洞,致远OA 监控密码泄露导致铭感信息泄露,用友u8 OA sql注入,铭感信息泄露等漏洞(合并此项目所有漏洞https://codeload.github.com/Summer177/seeyon_exp/zip/refs/heads/main)。2021-07-18更新版本将下周在github发布!!!!!。最新版本已经同步到群里。</li>
   <li>2021-07-11 修复能多开,导致绕过1000条限制的bug,更新:Yapi Rce漏洞,飞鱼星路由器信息泄露(router),ACTI Camera 任意文件读取漏洞(webcam),Nacos 弱口令 未授权,
 Apache Kylin Console弱口令,Atlassian Jira 信息泄露漏洞 CVE-2020-14181，中国移动 禹路由未获授权访问,密码敏感信息泄露(router)
 coremail 任意文件上传漏洞,信息泄露漏洞， D-Link ShareCenter DNS-320 rce(router)，海康威视流媒体密码泄露,任意文件读取(webcam),
@@ -132,6 +134,8 @@ nacos<br/>
 apachekylin<br/>
 atlassianjira<br/>
 coremail<br/>
+landrayoa</br>
+yongyouu8</br>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
