@@ -17,11 +17,11 @@
   <li>软件限制一千条是为了防止有些人利用软件谋利甚至是非法攻击某些站点。暂时限制一千条。可能以后会开放(少部分人)还是那句话近半年不会搞</li>
   <li>最后感谢大家对本软件的支持</li>
   </ul>
-  <h1>AttackWebFrameworkTools 2.0 2021-04-17</h1>
+  <h1>AttackWebFrameworkTools 4.0 2021-08-14</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!
   如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报并且私发网站给我邮件。我邮箱Anonymous-ghost@qq.com。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓
 
- ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/menu.png)
+ ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/4.0.png)
  <h1>AttackWebFrameworkTools For RedTeam </h1>
 <p><a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost-red" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-Version2.0-faa755" style="max-width:100%;"></a>
