@@ -96,6 +96,11 @@ AttackWebFrameworkTools.exe 所有exp都跑使用默认线程模式<br/>
   AttackWebFrameworkTools.exe  -thread 200 所有exp都跑使用自定义线程模式<br/>
 AttackWebFrameworkTools.exe -type thinkphp 使用默认线程跑 thinkphp框架漏洞使用说明<br/>
 AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线程跑 thinkphp框架漏洞<br/>
+  AttackWebFrameworkTools.exe -url http://www.baidu.com<br/>
+AttackWebFrameworkTools.exe -url http://www.baidu.com -thread 30<br/>
+AttackWebFrameworkTools.exe -url http://www.baidu.com/ -type thinkphp<br/>
+AttackWebFrameworkTools.exe -url http://www.baidu.com -type thinkphp -thread 30<br/>
+  如果要使用勾选功能见上图实测效果。勾选功能演示。如果想自定义作者见自定义作者演示图
 集成漏洞如下(-type参数) <br/>
 thinkphp<br/>
 weblogic<br/>
