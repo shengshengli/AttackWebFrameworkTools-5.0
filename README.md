@@ -22,7 +22,7 @@
   如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报并且私发网站给我邮件。我邮箱Anonymous-ghost@qq.com。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。4.0更新加入当个网站的批量测试。加入了自定义作者的功能。4.0加入了代理检测功能!!!检测到代理立刻退出软件运行
 
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/4.0.png)
- <h1>AttackWebFrameworkTools For RedTeam </h1>
+ <h1>AttackWebFrameworkTools 4.0 For RedTeam </h1>
 <p><a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost-red" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-Version4.0-faa755" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="type" src="https://img.shields.io/badge/type-bin-blueviolet" style="max-width:100%;"></a>
