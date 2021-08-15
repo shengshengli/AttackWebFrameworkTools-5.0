@@ -19,7 +19,7 @@
   </ul>
   <h1>AttackWebFrameworkTools 4.0 2021-08-14</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!
-  如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报并且私发网站给我邮件。我邮箱Anonymous-ghost@qq.com。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓
+  如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报并且私发网站给我邮件。我邮箱Anonymous-ghost@qq.com。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。4.0更新加入当个网站的批量测试。加入了自定义作者的功能
 
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/4.0.png)
  <h1>AttackWebFrameworkTools For RedTeam </h1>
@@ -186,6 +186,10 @@ vpn(网康 NS-ASG 应用安全网关文件下载)<br/>
 </ul>
 <h2>注意如果提示软件时间到期可以更改本地时间时间改成软件当前时间加半个月时间之内例如:2021-02-19 那么把本地时间改成2021-02-20-2021-03-06之间的时间就可以打开软件了</h2>
 <h2>上图实测效果</h2>
+自定义作者演示
+
+![自定义作者演示](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/au.png)<br/>
+
 YAPI RCE 漏洞实战测试
 
 ![YAPI RCE](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/Yapi.png)<br/>
