@@ -31,6 +31,14 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新日志:</h2>
 <ul>
+  <li>
+2021-08-15 更新git信息泄露,更新路由器防火墙硬编码漏洞(dkey),gitlab 邮箱信息泄露,h3防火墙任意文件读取漏洞,汉王考勤系统sql注入漏洞
+,海康威视视频网管任意文件读取,汇捷通云视频任意文件读取,webmail basic rce,Jellyfin 任意文件读取漏洞,cloudRouter,
+金何OA C6 任意文件读取漏洞,极通EWEBS任意文件包含,webui任意文件下载,Kyan账号密码泄露,佑友-佑友防火墙命令执行,三星 wlan AP 命令执行,
+php v8.1 后门,,深信服终端检测平台RCE漏洞,Selea OCR-ANPR摄像机文件读取漏洞,shiziyucms注入,ShopOX 任意文件下载漏洞，TamronOS IPTV
+,网康 NS-ASG 应用安全网关文件下载,AC集中管理平台弱口令,Zeroshell 防火墙rce, 协达Oa 任意文件下载,任务调度弱口令,好视通文件读取漏洞
+,AI网络运维平台RCE,WorkflowServicexml rce
+</li>
   <li>2021-07-18 致远OA htmloffice 误报修复,spring boot探测误报修复,Apache Kylin弱口令误报修复,新增蓝凌OA 前台getshell,任意文件读取，
 致远OA FastJson 漏洞,致远OA任意文件下载漏洞,致远OA 监控密码泄露导致铭感信息泄露,用友u8 OA sql注入,铭感信息泄露等漏洞(合并此项目所有漏洞https://codeload.github.com/Summer177/seeyon_exp/zip/refs/heads/main)。2021-07-18更新版本将下周在github发布!!!!!。最新版本已经同步到git</li>
   <li>2021-07-11 修复能多开,导致绕过1000条限制的bug,更新:Yapi Rce漏洞,飞鱼星路由器信息泄露(router),ACTI Camera 任意文件读取漏洞(webcam),Nacos 弱口令 未授权,
@@ -99,7 +107,8 @@ tongdaoa<br/>
 apacheflink<br/>
 ruijie<br/>
 apachedruid<br/>
-router(dlink rce漏洞,三星路由器,dlink密码泄露,飞鱼星路由器信息泄露,中国移动 禹路由未获授权访问,密码敏感信息泄露, D-Link ShareCenter DNS-320 rce,Dlink 弱密码)<br/>
+router(dlink rce漏洞,三星路由器,dlink密码泄露,飞鱼星路由器信息泄露,中国移动 禹路由未获授权访问,密码敏感信息泄露, D-Link ShareCenter DNS-320 rce,Dlink 弱密码)
+  cloudRouter密码泄露,三星 wlan AP 命令执行<br/>
 solr<br/>
 activemq<br/>
 tomcat<br/>
@@ -110,7 +119,8 @@ fastjson<br/>
 jenkins<br/>
 vmvcenter<br/>
 webcam(DVR摄像头,D-Link-DCS,ACTI Camera 任意文件读取漏洞,海康威视流媒体密码泄露,任意文件读取,浙江大华DSS  任意文件下载,
-  Finetree-5MP-摄像机 未授权添加账号密码,弱密码)<br/>
+ Finetree-5MP-摄像机 未授权添加账号密码,弱密码，海康威视视频网管任意文件读取,汇捷通云视频任意文件读取,Jellyfin 任意文件读取漏洞,
+Selea OCR-ANPR摄像机文件读取漏洞)<br/>
 nexus<br/>
 bigip<br/>
 messasolu<br/>
@@ -118,9 +128,12 @@ ofbiz<br/>
 jboss<br/>
 shiro<br/>
 springboot<br/>
-weaveroa(泛微OA,泛微 Emoblie 6.6 RCE)<br/>
-cms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录，红帆oA,金山 V8 终端安全系统,启莱OAsql注入漏洞)<br/>
-firewall(360新天擎sql注入(线程调到最低!!!测试否则会漏洞网站),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行,FineReport（帆软）报表系统目录遍历漏洞)<br/>
+weaveroa(泛微OA,泛微 Emoblie 6.6 RCE),WorkflowServicexml rce<br/>
+cms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录，红帆oA,金山 V8 终端安全系统,启莱OAsql注入漏洞)
+ 汉王考勤系统sql注入漏洞,金何OA C6 任意文件读取漏洞,极通EWEBS任意文件包含, ShiziyuCms 注入,ShopOX 任意文件下载漏洞,TamronOS IPTV命令执行协达Oa 任意文件下载
+ 任务调度弱口令,好视通文件读取漏洞<br/>
+firewall(360新天擎sql注入(线程调到最低!!!测试否则会漏洞网站),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行,FineReport（帆软）报表系统目录遍历漏洞)
+  h3防火墙任意文件读取漏洞,佑友-佑友防火墙命令执行,Zeroshell 防火墙rce<br/>
 seeyonoa(致远OA)<br/>
 yongyougrp((用友GRP))<br/>
 eyou<br/>
@@ -137,6 +150,15 @@ atlassianjira<br/>
 coremail<br/>
 landrayoa</br>
 yongyouu8</br>
+git(git信息泄露,gitlab 邮箱信息泄露)<br/>
+dkey<br/>
+webui<br/>
+webmail<br/>
+yunwei(Kyan账号密码泄露,AI网络运维平台RCE)<br/>
+zujian(php v8.1 后门)<br/>
+sangfor<br/>
+wlan(AC集中管理平台弱口令)<br/>
+vpn(网康 NS-ASG 应用安全网关文件下载)<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
