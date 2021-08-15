@@ -188,7 +188,7 @@ vpn(网康 NS-ASG 应用安全网关文件下载)<br/>
 <h2>上图实测效果</h2>
 自定义作者演示
 
-![自定义作者演示](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/au.png)<br/>
+![自定义作者演示](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/author.png)<br/>
 
 YAPI RCE 漏洞实战测试
 
