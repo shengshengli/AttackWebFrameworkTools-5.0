@@ -101,7 +101,7 @@ AttackWebFrameworkTools.exe -url http://www.baidu.com -thread 30<br/>
 AttackWebFrameworkTools.exe -url http://www.baidu.com/ -type thinkphp<br/>
 AttackWebFrameworkTools.exe -url http://www.baidu.com -type thinkphp -thread 30<br/>
   如果要使用勾选功能见上图实测效果。勾选功能演示。如果想自定义作者见自定义作者演示图<br/>
-集成漏洞如下(-type参数) <br/>
+集成漏洞如下(-type参数) 注意有的type参数虽然标注了两个类别但并不代表这个参数只包含这两个漏洞!!!!<br/>
 thinkphp<br/>
 weblogic<br/>
 struts2<br/>
