@@ -31,6 +31,8 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新日志:</h2>
 <ul>
+  <li>2021-08-28 修复在识别框架shiro的时候部分网站识别不准确的bug。修复 weaverOA WorkflowServicexml dnslog检测失败的bug。此问题存在于公开版本</li>
+  <li>以下是公开版的更新</li>
   <li>
 2021-08-15 更新git信息泄露,更新路由器防火墙硬编码漏洞(dkey),gitlab 邮箱信息泄露,h3防火墙任意文件读取漏洞,汉王考勤系统sql注入漏洞
 ,海康威视视频网管任意文件读取,汇捷通云视频任意文件读取,webmail basic rce,Jellyfin 任意文件读取漏洞,cloudRouter,
