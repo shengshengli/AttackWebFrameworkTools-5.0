@@ -36,6 +36,7 @@
   <li>更新日志记录软件已经停止更新!!!</li>
   <li>2021-09-04 Atlassian Confluence OGNL 表达式注入CVE-2021-26084</li>
   <li>2021-08-28 修复在识别框架shiro的时候部分网站识别不准确的bug。修复 weaverOA WorkflowServicexml dnslog检测失败的bug。此问题存在于公开版本</li>
+   <li>更新日志记录软件已经停止更新!!!</li>
   <li>以下是公开版的更新</li>
   <li>
 2021-08-15 更新git信息泄露,更新路由器防火墙硬编码漏洞(dkey),gitlab 邮箱信息泄露,h3防火墙任意文件读取漏洞,汉王考勤系统sql注入漏洞
