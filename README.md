@@ -33,6 +33,8 @@
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新日志:</h2>
 <ul>
+  <li>更新日志记录软件已经停止更新!!!</li>
+  <li>2021-09-04 Atlassian Confluence OGNL 表达式注入CVE-2021-26084</li>
   <li>2021-08-28 修复在识别框架shiro的时候部分网站识别不准确的bug。修复 weaverOA WorkflowServicexml dnslog检测失败的bug。此问题存在于公开版本</li>
   <li>以下是公开版的更新</li>
   <li>
@@ -168,6 +170,7 @@ zujian(php v8.1 后门)<br/>
 sangfor<br/>
 wlan(AC集中管理平台弱口令)<br/>
 vpn(网康 NS-ASG 应用安全网关文件下载)<br/>
+atlassianconfl<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
