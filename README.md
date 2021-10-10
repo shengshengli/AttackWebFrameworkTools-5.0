@@ -34,6 +34,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+   <li>2021-10-10 phpstudy RCE,CVE-2021-41773 CVE-2021-42013 检测和识别是否是对应版本</li>
    <li>2021-09-29  更新:VMware vCenter Server CVE-2021-22005 Reference:https://github.com/rwincey/CVE-2021-22005</li>
   <li>2021-09-04 Atlassian Confluence OGNL 表达式注入CVE-2021-26084</li>
   <li>2021-08-28 修复在识别框架shiro的时候部分网站识别不准确的bug。修复 weaverOA WorkflowServicexml dnslog检测失败的bug。此问题存在于公开版本</li>
