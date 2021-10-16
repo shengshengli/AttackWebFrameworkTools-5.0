@@ -34,6 +34,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+  <li>2021-10-16 修复导致软件奔溃严重bug,修复shiro 识别不准确的bug</li>
    <li>2021-10-10 phpstudy RCE,CVE-2021-41773 CVE-2021-42013 检测和识别是否是对应版本</li>
    <li>2021-09-29  更新:VMware vCenter Server CVE-2021-22005 Reference:https://github.com/rwincey/CVE-2021-22005</li>
   <li>2021-09-04 Atlassian Confluence OGNL 表达式注入CVE-2021-26084</li>
@@ -174,6 +175,8 @@ sangfor<br/>
 wlan(AC集中管理平台弱口令)<br/>
 vpn(网康 NS-ASG 应用安全网关文件下载)<br/>
 atlassianconfl<br/>
+phpstudy<br/>
+apache<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
