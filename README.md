@@ -23,7 +23,8 @@
   </ul>
   <h1>AttackWebFrameworkTools 4.0 2021-08-14</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!
-  如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报并且私发网站给我邮件。我邮箱Anonymous-ghost@qq.com。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>4.0更新加入单个网站的批量测试。加入了自定义作者的功能。4.0加入了代理检测功能!!!检测到代理立刻退出软件运行</h3>
+  如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报到飞机群上报。邮箱最近有人频繁骚扰故直接飞机了:
+  bug report telegram:https://t.me/softcum  contact me。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>4.0更新加入单个网站的批量测试。加入了自定义作者的功能。4.0加入了代理检测功能!!!检测到代理立刻退出软件运行</h3>
 
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/4.0.png)
  <h1>AttackWebFrameworkTools 4.0 For RedTeam </h1>
@@ -196,7 +197,7 @@ apache<br/>
 <li>solr CVE-2017-12629 漏洞检测时间耗时较长请耐心等待结果</li>
 <li>建议进行针对对性漏洞测试全量跑耗时就容易被waf封<br/></li>
 <li>为了避免被非法利用工具软件最大支持检测url个数为50条</li>
-<li>另外说如果有合适的exp或者poc可以联系我邮箱Anonymous-ghost@qq.com。另外如果有bug或者好的建议也可以把意见发送到我的邮箱。如果工具有误报请把你的截图附上关键url可打码。如果是-type参数请指明。啥也没有我不好判断bug点!!!!感谢支持。一起携手打造web框架自动化测试工具</li>
+<li>另外说如果有合适的exp或者poc可以联系我telegram:https://t.me/softcum  contact me。另外如果有bug或者好的建议也可以把意见发送到我的飞机群。如果工具有误报请把你的截图附上关键url可打码。如果是-type参数请指明。啥也没有我不好判断bug点!!!!感谢支持。一起携手打造web框架自动化测试工具</li>
 </ul>
 <h2>为什么有的框架集成了部分漏洞,为什么有的框架漏洞没有集成</h2>
 <ul>
