@@ -184,6 +184,7 @@ vpn(网康 NS-ASG 应用安全网关文件下载)<br/>
 atlassianconfl<br/>
 phpstudy<br/>
 apache<br/>
+gitlab<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
@@ -213,6 +214,9 @@ apache<br/>
 自定义作者演示
 
 ![自定义作者演示](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/author.png)<br/>
+
+CVE-CVE-2021-22205
+![CVE-CVE-2021-22205](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/cve-2021-22205.png)<br/>
 
 YAPI RCE 漏洞实战测试
 
