@@ -40,7 +40,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
-    <li>2021-10-29 更新 gitlalb 未授权 rce gitlab CVE-2021-22205 合并此项目https://github.com/r0eXpeR/CVE-2021-22205 不回显漏洞使用dnslog检测如果不出网那么即使有漏洞也无法检测 </li>
+    <li>2021-10-29 更新 gitlab 未授权 rce gitlab CVE-2021-22205 合并此项目https://github.com/r0eXpeR/CVE-2021-22205 不回显漏洞使用dnslog检测如果不出网那么即使有漏洞也无法检测 </li>
   <li>2021-10-16 修复导致软件奔溃严重bug,修复shiro 识别不准确的bug</li>
    <li>2021-10-10 phpstudy RCE,CVE-2021-41773 CVE-2021-42013 检测和识别是否是对应版本</li>
    <li>2021-09-29  更新:VMware vCenter Server CVE-2021-22005 Reference:https://github.com/rwincey/CVE-2021-22005</li>
