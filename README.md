@@ -40,6 +40,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+  <li>2021-11-07 H5S视频平台未授权 接口泄露</li>
     <li>2021-10-29 更新 gitlab 未授权 rce gitlab CVE-2021-22205 合并此项目https://github.com/r0eXpeR/CVE-2021-22205 不回显漏洞使用dnslog检测如果不出网那么即使有漏洞也无法检测 </li>
   <li>2021-10-16 修复导致软件奔溃严重bug,修复shiro 识别不准确的bug</li>
    <li>2021-10-10 phpstudy RCE,CVE-2021-41773 CVE-2021-42013 检测和识别是否是对应版本</li>
@@ -142,7 +143,7 @@ jenkins<br/>
 vmvcenter<br/>
 webcam(DVR摄像头,D-Link-DCS,ACTI Camera 任意文件读取漏洞,海康威视流媒体密码泄露,任意文件读取,浙江大华DSS  任意文件下载,
  Finetree-5MP-摄像机 未授权添加账号密码,弱密码，海康威视视频网管任意文件读取,汇捷通云视频任意文件读取,Jellyfin 任意文件读取漏洞,
-Selea OCR-ANPR摄像机文件读取漏洞)<br/>
+Selea OCR-ANPR摄像机文件读取漏洞,H5S视频平台未授权)<br/>
 nexus<br/>
 bigip<br/>
 messasolu<br/>
