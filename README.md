@@ -6,7 +6,7 @@
   <ul>
   
   <li><h3>最新版本已经同步github。旧版本已经全部删除!!!!</h3></li>
-   <li>后期计划增加插件功能。用户可以自定义插件。预计5.0新版估计明年了</li>
+   <li>后期计划增加插件功能。用户可以自定义插件。预计5.0新版估计明年了。插件项目自动Exp生成器已经写完.https://github.com/Anonymous-ghost/AttackWebFrameworkToolsUserDllplugin。后续会集成进来</li>
   <li><!--<h3>本软件只更新到2021-08-21,如果软件提示到期请更改本地时间。-->后续版本将不会公开且不要发邮件和私信。我要闭关修炼了。再次感谢大家使用。江湖再见，后会有期 
     By Anonymous-ghost</h3></li>
   <li>满血复活接下来陆续更新漏洞,敬请期待!!!!</li>
@@ -40,6 +40,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+  <li>2021-11-08 某堡垒机Rce漏洞</li>
   <li>2021-11-07 H5S视频平台未授权 接口泄露</li>
     <li>2021-10-29 更新 gitlab 未授权 rce gitlab CVE-2021-22205 合并此项目https://github.com/r0eXpeR/CVE-2021-22205 不回显漏洞使用dnslog检测如果不出网那么即使有漏洞也无法检测 </li>
   <li>2021-10-16 修复导致软件奔溃严重bug,修复shiro 识别不准确的bug</li>
@@ -186,6 +187,7 @@ atlassianconfl<br/>
 phpstudy<br/>
 apache<br/>
 gitlab<br/>
+baoleiji<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
