@@ -279,3 +279,6 @@ solr新增exp测试图
 ![menu](https://forum.90sec.com/uploads/default/optimized/2X/6/6ea0808a2eebfc7ec8c4b6aac0c4ae8e47bd4759_2_1246x998.jpeg)
 测试
 ![menu](https://forum.90sec.com/uploads/default/optimized/2X/b/b545a978dccb5c41fa1417f2ae0ac5806652e62f_2_1326x1000.jpeg)
+
+fofa工具
+![men](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/fofa.png)
