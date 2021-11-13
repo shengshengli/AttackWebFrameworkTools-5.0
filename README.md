@@ -154,7 +154,7 @@ ofbiz<br/>
 jboss<br/>
 shiro<br/>
 springboot<br/>
-weaveroa(泛微OA,泛微 Emoblie 6.6 RCE),WorkflowServicexml rce<br/>
+weaveroa(泛微OA,泛微 Emoblie 6.6 RCE),WorkflowServicexml rce,泛微OA 任意文件上传xday<br/>
 cms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录，红帆oA,金山 V8 终端安全系统,启莱OAsql注入漏洞)
  汉王考勤系统sql注入漏洞,金何OA C6 任意文件读取漏洞,极通EWEBS任意文件包含, ShiziyuCms 注入,ShopOX 任意文件下载漏洞,TamronOS IPTV命令执行协达Oa 任意文件下载
  任务调度弱口令,好视通文件读取漏洞<br/>
