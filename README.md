@@ -41,6 +41,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+  <li>2021-11-19 Apache ShenYu 未授权接口访问(CVE-2021-37580)</li>
   <li>2021-11-12 泛微OA 任意文件上传xday </li>
   <li>2021-11-08 某堡垒机Rce漏洞</li>
   <li>2021-11-07 H5S视频平台未授权 接口泄露</li>
@@ -190,6 +191,7 @@ phpstudy<br/>
 apache<br/>
 gitlab<br/>
 baoleiji<br/>
+apachesou<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
