@@ -179,7 +179,7 @@ atlassianjira<br/>
 coremail<br/>
 landrayoa</br>
 yongyouu8</br>
-git(git信息泄露,gitlab 邮箱信息泄露)<br/>
+git(git信息泄露)<br/>
 dkey<br/>
 webui<br/>
 webmail<br/>
@@ -191,7 +191,7 @@ vpn(网康 NS-ASG 应用安全网关文件下载)<br/>
 atlassianconfl<br/>
 phpstudy<br/>
 apache<br/>
-gitlab<br/>
+gitlab(CVE-2021-22205,gitlab 邮箱信息泄露)<br/>
 baoleiji<br/>
 apachesou(CVE-2021-37580)<br/>
 weiphp<br/>
