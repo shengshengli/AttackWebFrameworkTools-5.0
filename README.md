@@ -41,6 +41,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+   <li>2021-11-21 xxx一体机rce漏洞</li>
   <li>2021-11-20 更新weiphp 5.0 未授权文件上传。sql注入漏洞</li>
   <li>2021-11-19 Apache ShenYu 未授权接口访问(CVE-2021-37580)</li>
   <li>2021-11-12 泛微OA 任意文件上传xday </li>
@@ -161,7 +162,7 @@ cms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和�
  汉王考勤系统sql注入漏洞,金何OA C6 任意文件读取漏洞,极通EWEBS任意文件包含, ShiziyuCms 注入,ShopOX 任意文件下载漏洞,TamronOS IPTV命令执行协达Oa 任意文件下载
  任务调度弱口令,好视通文件读取漏洞<br/>
 firewall(360新天擎sql注入(线程调到最低!!!测试否则会漏洞网站),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行,FineReport（帆软）报表系统目录遍历漏洞)
-  h3防火墙任意文件读取漏洞,佑友-佑友防火墙命令执行,Zeroshell 防火墙rce<br/>
+  h3防火墙任意文件读取漏洞,佑友-佑友防火墙命令执行,Zeroshell 防火墙rce,xxx一体机rce漏洞<br/>
 seeyonoa(致远OA)<br/>
 yongyougrp((用友GRP))<br/>
 eyou<br/>
