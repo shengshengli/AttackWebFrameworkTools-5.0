@@ -41,11 +41,12 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
-   <li>2021-11-21 xxx一体机rce漏洞</li>
+  <li>2021-11-26  更新webuploader上传漏洞,用友-UFIDA-NC" 目录遍历,metinfo 6.0 任意文件读取漏洞(cms).,nodejs 文件读取，node js rce CVE-2021-21315</li>
+   <li>2021-11-21 更新xxx一体机rce漏洞</li>
   <li>2021-11-20 更新weiphp 5.0 未授权文件上传。sql注入漏洞</li>
-  <li>2021-11-19 Apache ShenYu 未授权接口访问(CVE-2021-37580)</li>
-  <li>2021-11-12 泛微OA 任意文件上传xday </li>
-  <li>2021-11-08 某堡垒机Rce漏洞</li>
+  <li>2021-11-19 更新Apache ShenYu 未授权接口访问(CVE-2021-37580)</li>
+  <li>2021-11-12 更新泛微OA 任意文件上传xday </li>
+  <li>2021-11-08 更新某堡垒机Rce漏洞</li>
   <li>2021-11-07 H5S视频平台未授权 接口泄露</li>
     <li>2021-10-29 更新 gitlab 未授权 rce gitlab CVE-2021-22205 合并此项目https://github.com/r0eXpeR/CVE-2021-22205 不回显漏洞使用dnslog检测如果不出网那么即使有漏洞也无法检测 </li>
   <li>2021-10-16 修复导致软件奔溃严重bug,修复shiro 识别不准确的bug</li>
@@ -195,6 +196,8 @@ gitlab(CVE-2021-22205,gitlab 邮箱信息泄露)<br/>
 baoleiji<br/>
 apachesou(CVE-2021-37580)<br/>
 weiphp<br/>
+upload(以后此为上传组件类集合:webuploader)<br/>
+nodejs<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
