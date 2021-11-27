@@ -198,6 +198,7 @@ baoleiji<br/>
 apachesou(CVE-2021-37580)<br/>
 weiphp<br/>
 upload(以后此为上传组件类集合:webuploader)<br/>
+gateway(网关,流媒体,视频终端合集)<br/>
 nodejs<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
