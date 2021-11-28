@@ -41,7 +41,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
-  <li>2021-11-28 锐捷EG易网关与NBR路由器后台命令执行漏洞(ruijie)</li>
+  <li>2021-11-28 锐捷EG易网关与NBR路由器后台命令执行漏洞(ruijie),修复:weiphp sql注入误报 solr-CVE-2019-17558 误报</li>
   <li>2021-11-27 xxx酒店电视网关(通用) 未授权RCE漏洞(gateway)</li>
   <li>2021-11-26  更新webuploader上传漏洞,用友-UFIDA-NC" 目录遍历,metinfo 6.0 任意文件读取漏洞(cms).,nodejs 文件读取，node js rce CVE-2021-21315</li>
    <li>2021-11-21 更新xxx一体机rce漏洞</li>
