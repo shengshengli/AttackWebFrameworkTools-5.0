@@ -41,6 +41,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+  <li>2021-12-01 更新X5系统前台SSRF，XXE</li>
   <li>2021-11-30  修复bug youyou 出现错误直接跑不完的bug 和获取报错的类遇到强制关闭的类没有加入try catch 导致软没有waf的情况下也停止的bug并且不出现任何结果</li>
   <li>2021-11-29 雪在烧棋牌站任意文件上传漏洞(upload) 属于古董级别漏洞。修复 数组遍历没有做判断导致误报的bug。修复正常网站没有有斜杠没有去掉的bug</li>
   <li>2021-11-28 锐捷EG易网关与NBR路由器后台命令执行漏洞(ruijie),修复:weiphp sql注入误报 solr-CVE-2019-17558 误报。修复获取网站路径斜杠多截取导致获取到不完整网站的bug</li>
@@ -203,6 +204,7 @@ weiphp<br/>
 upload(以后此为上传组件类集合:webuploader)<br/>
 gateway(网关,流媒体,视频终端合集)<br/>
 nodejs<br/>
+x5<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
