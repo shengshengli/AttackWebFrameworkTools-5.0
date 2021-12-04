@@ -150,7 +150,6 @@ solr<br/>
 activemq<br/>
 tomcat<br/>
 unomi<br/>
-drupal<br/>
 es<br/>
 fastjson<br/>
 jenkins<br/>
