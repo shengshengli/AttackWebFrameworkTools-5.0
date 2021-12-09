@@ -41,6 +41,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+   <li>2021-12-09 更新Grafana任意文件读取 CVE-2021-43798,增加软件更新提醒功能</li>
    <li>2021-12-06 更新Jenkins CVE-2019-1003000 并且增加爆破账号密码功能</li>
   <li>2021-12-04 更新Joomla-3.4.6远程代码执行漏洞(影响版本3.0-3.4.6)</li>
   <li>2021-12-03 konga JWT 认证绕过</li>
@@ -210,6 +211,7 @@ x5<br/>
 konga<br/>
 drupal<br/>
 joomla<br/>
+grafana<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
