@@ -39,6 +39,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+  <li> 2021-12-19 万户 OA 任意文件写入(ezoffice)</li>
   <li> 2021-12-16 xxxoffice OA RCE(cms)</li>
   <li> 2021-12-15 更新 泛微OA CNVD-2021-49104(weaver OA ) 任意文件上传漏洞 覆盖两个上传接口。Lxxxxec VPN 任意文件上传前台(vpn)</li>
  <li>2021-12-12 更新xxx教学管理ERP系统任意文件上传(cms)。xx捷CRM Sql注入直接getshell(cms)。修复了某些bug。最近log4j漏洞比较火但是因为log4j参数只能fuzz。且该漏洞影响较大。各大厂商都很重视。估计修复很快。两个原因:故不集成到本工具里面了。</li>
