@@ -48,6 +48,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+<li> 2021-12-25 更新bootdo系统漏洞(bootdo)</li>
   <li> 2021-12-19 万户 OA 任意文件写入(ezoffice)</li>
   <li> 2021-12-16 xxxoffice OA RCE(cms)</li>
   <li> 2021-12-15 更新 泛微OA CNVD-2021-49104(weaver OA ) 任意文件上传漏洞 覆盖两个上传接口。Lxxxxec VPN 任意文件上传前台(vpn)</li>
@@ -223,6 +224,7 @@ konga<br/>
 drupal<br/>
 joomla<br/>
 grafana<br/>
+bootdo<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
