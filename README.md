@@ -49,6 +49,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+  <li> 2021-12-29 更新log4j漏洞探测合并此项目 https://github.com/Dghpi9/Log4j2-Fuzz</li>
 <li> 2021-12-25 更新bootdo系统漏洞(bootdo)</li>
   <li> 2021-12-19 万户 OA 任意文件写入(ezoffice)</li>
   <li> 2021-12-16 xxxoffice OA RCE(cms)</li>
@@ -226,6 +227,7 @@ drupal<br/>
 joomla<br/>
 grafana<br/>
 bootdo<br/>
+log4j(Http Header Fuzzing(16)|Apache SkyWalking|Seeyon OA|MobileIrons|Apache solr|APACHE-Druid|APACHE OFBiz No Testing|APACHE Struts2|vmware-Horizon|vmware vcenter|XenMobile|UniFiNetwork|vmware-Workspace No Testing!!!|weblogic log4j)<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
