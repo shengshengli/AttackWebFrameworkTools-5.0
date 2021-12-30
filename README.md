@@ -49,7 +49,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
-  <li> 2021-12-30更新齐博cms ssrf|任意文件读取漏洞(cms)</li>
+  <li> 2021-12-30更新齐博cms ssrf|任意文件读取漏洞(cms)，增加除www.dnslog.cn接口避免dnslog无法使用导致问题。如果获取不到dnslog则会提示!!!。</li>
   <li> 2021-12-29 更新log4j漏洞探测(支持模块和产品Http Header Fuzzing(16)|Apache SkyWalking|Seeyon OA|MobileIrons|Apache solr|APACHE-Druid|APACHE OFBiz No Testing|APACHE Struts2|vmware-Horizon|vmware vcenter|XenMobile|UniFiNetwork|vmware-Workspace No Testing!!!|weblogic log4j)合并此项目 https://github.com/Dghpi9/Log4j2-Fuzz</li>
 <li> 2021-12-25 更新bootdo系统漏洞(bootdo)</li>
   <li> 2021-12-19 万户 OA 任意文件写入(ezoffice)</li>
@@ -61,7 +61,7 @@
   <li>2021-12-04 更新Joomla-3.4.6远程代码执行漏洞(影响版本3.0-3.4.6)</li>
   <li>2021-12-03 konga JWT 认证绕过</li>
   <li>2021-12-01 更新X5系统前台SSRF，XXE(工具作者自己挖掘)还有一枚前台初始化数据库直接重置管理员密码威力太大暂时不写工具里面</li>
-  <li>2021-11-30  修复bug youyou 出现错误直接跑不完的bug 和获取报错的类遇到强制关闭的类没有加入try catch 导致软没有waf的情况下也停止的bug并且不出现任何结果</li>
+  <li>2021-11-30  修复bug youyou 出现错误直接跑不完的bug 和获取报错的类遇到强制关闭的类没有加入try catch 导致没有waf的情况下也停止的bug并且不出现任何结果。</li>
   <li>2021-11-29 雪在烧棋牌站任意文件上传漏洞(upload) 属于古董级别漏洞。修复 数组遍历没有做判断导致误报的bug。修复正常网站没有有斜杠没有去掉的bug</li>
   <li>2021-11-28 锐捷EG易网关与NBR路由器后台命令执行漏洞(ruijie),修复:weiphp sql注入误报 solr-CVE-2019-17558 误报。修复获取网站路径斜杠多截取导致获取到不完整网站的bug</li>
   <li>2021-11-27 xxx酒店电视网关(通用) 未授权RCE漏洞(gateway)</li>
