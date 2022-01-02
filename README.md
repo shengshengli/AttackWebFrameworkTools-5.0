@@ -49,7 +49,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
-    <li>2022-01-02 更新Panabit-Panalog日志系统(yunwei),x天智能edr任意文件上传(cms),ASUSTORNAS(phpmyadmin) 弱口令getshell</li>
+    <li>2022-01-02 更新Panabit-Panalog日志系统RCE(yunwei),x天智能edr任意文件上传getshell(cms),ASUSTORNAS(phpmyadmin) 弱口令一键getshell</li>
   <li> 2021-12-30 更新齐博cms ssrf|任意文件读取漏洞(cms)，增加除www.dnslog.cn接口避免dnslog无法使用导致问题。如果获取不到dnslog则会提示!!!。</li>
   <li> 2021-12-29 更新log4j漏洞探测(支持模块和产品Http Header Fuzzing(16)|Apache SkyWalking|Seeyon OA|MobileIrons|Apache solr|APACHE-Druid|APACHE OFBiz No Testing|APACHE Struts2|vmware-Horizon|vmware vcenter|XenMobile|UniFiNetwork|vmware-Workspace No Testing!!!|weblogic log4j)合并此项目 https://github.com/Dghpi9/Log4j2-Fuzz</li>
 <li> 2021-12-25 更新bootdo系统漏洞(bootdo)</li>
