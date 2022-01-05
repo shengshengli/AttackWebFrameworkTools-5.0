@@ -315,17 +315,5 @@ solr新增exp测试图
 我们的软件测试结果和速度几分钟搞定
 ![myunomi](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/UnomiMysoft.png)
 
-
-另外扯点儿别的话题还开发了针对cms进行测试的工具。这款工具等时机成熟会放出来的暂时不放
-
-![menu](https://forum.90sec.com/uploads/default/optimized/2X/b/b04f08fd772ede5e45145b8cf6df3e2c3067acd9_2_1248x1000.png)
-收集漏洞
-![menu](https://forum.90sec.com/uploads/default/optimized/2X/6/6ea0808a2eebfc7ec8c4b6aac0c4ae8e47bd4759_2_1246x998.jpeg)
-测试
-![menu](https://forum.90sec.com/uploads/default/optimized/2X/b/b545a978dccb5c41fa1417f2ae0ac5806652e62f_2_1326x1000.jpeg)
-
-fofa工具
-![men](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/fofa.png)
-
 Apache APISIX Dashboard CVE-2021-45232
 ![APISIX](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/CVE-2021-45232.png)
