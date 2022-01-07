@@ -49,7 +49,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
-   <li>2022-01-07 修正https 连接bug。增加自动http网页识别编码自定义http头部方法类以强大软件功能</li>
+  <li>2022-01-07 增加自动http网页识别编码自定义http头部方法类以强大软件功能</li>
    <li>2022-01-05 更新Apache APISIX Dashboard CVE-2021-45232 演示图见底部 合并 https://github.com/wuppp/cve-2021-45232-exp  。增加Crc32算法类修正dict字典键值重复报错问题!!!</li>
     <li>2022-01-02 更新Panabit-Panalog日志系统RCE(yunwei),x天智能edr任意文件上传getshell(cms),ASUSTORNAS(phpmyadmin) 弱口令一键getshell。根据网站数量调低默认线程保证结果准确性</li>
   <li> 2021-12-30 更新齐博cms ssrf|任意文件读取漏洞(cms)，增加除www.dnslog.cn接口避免dnslog无法使用导致问题。如果获取不到dnslog则会提示!!!。</li>
