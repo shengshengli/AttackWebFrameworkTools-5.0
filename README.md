@@ -49,6 +49,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+ <li>2022-01-13 更新Canal Admin信息泄露弱口令(gateway),华天动力一键getshell-mysql(htoa),PatrolFlow  一键getshell(gateway),spon 网络对讲机一键getshell,rce(hardware)</li>
   <li>2022-01-07 增加自动http网页识别编码自定义http头部方法类以增强软件功能</li>
    <li>2022-01-05 更新Apache APISIX Dashboard CVE-2021-45232 演示图见底部 合并 https://github.com/wuppp/cve-2021-45232-exp  。增加Crc32算法类修正dict字典键值重复报错问题!!!</li>
     <li>2022-01-02 更新Panabit-Panalog日志系统RCE(yunwei),x天智能edr任意文件上传getshell(cms),ASUSTORNAS(phpmyadmin) 弱口令一键getshell。根据网站数量调低默认线程保证结果准确性</li>
@@ -234,6 +235,8 @@ bootdo<br/>
 log4j(Http Header Fuzzing(16)|Apache SkyWalking|Seeyon OA|MobileIrons|Apache solr|APACHE-Druid|APACHE OFBiz No Testing|APACHE Struts2|vmware-Horizon|vmware vcenter|XenMobile|UniFiNetwork|vmware-Workspace No Testing!!!|weblogic log4j)<br/>
 phpmyadmin(phpmyadmin相关漏洞更新)<br/>
 apisix(Apache APISIX Dashboard)</br>
+hardware(硬件漏洞)<br/>
+htoa</br>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
