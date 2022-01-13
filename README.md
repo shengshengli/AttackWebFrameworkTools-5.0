@@ -224,7 +224,7 @@ baoleiji<br/>
 apachesou(CVE-2021-37580)<br/>
 weiphp<br/>
 upload(以后此为上传组件类集合:webuploader)<br/>
-gateway(网关,流媒体,视频终端合集)<br/>
+gateway(网关,流媒体,视频终端合集,接口)<br/>
 nodejs<br/>
 x5<br/>
 konga<br/>
