@@ -9,7 +9,7 @@
     后续会提供post。get数据包的dll。后续可能会开放上传dll。可以直接调用。或者用户自己编写</li>
   <li>内置exp。作者编写</li>
   </ul>
-  <h3>祝大家新年快乐,虎年技术更上一层楼,挖day挖到手软.2022农历一月一号 By Anonymous-ghost&寶儿 祝大家新年!!!</h3>
+  <h3>祝大家新年快乐,虎年技术更上一层楼,挖day挖到手软.2022农历正月初一 By Anonymous-ghost&寶儿 祝大家新年!!!</h3>
 <h2>使用软件请看:软件使用注意事项和AttackWebFrameworkTools工具使用方法<br/>提问问题请看:issue和私信问题答疑和未来打算要先看git说明看git说明实在解决不了在私信或者issue</h2>
   <h1>软件更新早知道</h1>
   <ul>
