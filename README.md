@@ -32,19 +32,19 @@
   <li>有人私信问我开没开工具小密圈,暂时没有开,预计明年开启。如果谁想提前加入那么先私信加入qq。如果打算开的时候第一时间通知</li>
    <li>近半年要深入学习代码审计,软件可能更新较慢。下周计划加入新漏洞敬请期待感谢大家对本软件的支持!!!!</li>
   <li>有人问软件是否考虑开源,以后可能会考虑开放源代码。但是是小范围传播。以后计划会弄一个圈子(但不免费)分享我本人收集的源码。代码审计,实战渗透测试等东西一起交流学习!!!。为啥要收费呢。减少传播减少法律风险,另外对这些东西也是花了时间和精力的。毕竟吃饱了饭才有动力干活不是么。敬请期待吧!!!近半年内不会组建圈子。因为本人要学习深造自己</li>
-<h3><li>软件限制五十条是为了防止有些人利用软件谋利甚至是非法大批量攻击某些站点。另外新安全法。新版本4.0限制五十条。</li></h3>
+<h3><li>软件限制五十条是为了防止有些人利用软件谋利甚至是非法大批量攻击某些站点。另外新安全法。新版本5.0限制五十条。</li></h3>
 <li>最后感谢大家对本软件的支持</li>
   </ul>
-  <h1>AttackWebFrameworkTools 4.0 2021-08-14</h1>
+  <h1>AttackWebFrameworkTools 5.0 2022-02-05</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!
   如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报到飞机群上报。邮箱最近有人频繁骚扰和方便外国友人交流。故直接飞机了:
-  bug report telegram:https://t.me/softcum  contact me。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>4.0更新加入单个网站的批量测试。加入了自定义作者的功能。4.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
+  bug report telegram:https://t.me/softcum  contact me。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>5.0更新加入单个网站的批量测试。加入了自定义作者的功能。5.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
 
  ![menu](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/5.0Exp.png)
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/Menu-dll-5.0.png)
- <h1>AttackWebFrameworkTools 4.0 For RedTeam </h1>
+ <h1>AttackWebFrameworkTools 5.0 For RedTeam </h1>
 <p><a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost-red" style="max-width:100%;"></a>
-  <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-Version4.0-faa755" style="max-width:100%;"></a>
+  <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-Version5.0-faa755" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"> <img alt="type" src="https://img.shields.io/badge/type-bin-blueviolet" style="max-width:100%;"></a>
   <a href="https://github.com/Anonymous-ghost/AttackWebFrameworkTools"><img alt="Release" src="https://img.shields.io/badge/language-C%23/C++-ff69b4.svg" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer"><img  alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Anonymous-ghost/AttackWebFrameworkTools?color=gree" style="max-width:100%;"></a>
