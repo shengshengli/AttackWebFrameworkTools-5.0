@@ -147,8 +147,9 @@ Finetree-5MP-摄像机 未授权添加账号密码,弱密码
 </ul>
 <h2>AttackWebFrameworkTools工具使用方法</h1>
 <ul>
-AttackWebFrameworkTools 使用说明<br/>
+AttackWebFrameworkTools5.0 使用说明<br/>
 url.txt 中网站一行一个且必须以http:// https:// 开头<br/>
+内置exp模式<br/>
 AttackWebFrameworkTools.exe 所有exp都跑使用默认线程模式<br/>
   AttackWebFrameworkTools.exe  -thread 200 所有exp都跑使用自定义线程模式<br/>
 AttackWebFrameworkTools.exe -type thinkphp 使用默认线程跑 thinkphp框架漏洞使用说明<br/>
@@ -157,6 +158,19 @@ AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线
 AttackWebFrameworkTools.exe -url http://www.baidu.com -thread 30<br/>
 AttackWebFrameworkTools.exe -url http://www.baidu.com/ -type thinkphp<br/>
 AttackWebFrameworkTools.exe -url http://www.baidu.com -type thinkphp -thread 30<br/>
+用户自定义dll模式<br/>
+ 同目录下创建userdll.txt即可进入用户自定义模式
+AttackWebFrameworkToolsUser.exe   跑所有dll</br>
+AttackWebFrameworkToolsUser.exe -thread 30 线程是30跑所有dll</br>
+AttackWebFrameworkToolsUser.exe -dllname test.dll 默认线程跑test.dll(test.dll为例子此处名字是任意)</br>
+AttackWebFrameworkToolsUser.exe -dllname test.dll -thread 30     30个线程跑test.dll(test.dll为例子此处名字是任意)</br>
+AttackWebFrameworkToolsUser.exe -url http://www.baidu.com      指定网站默认线程跑所有dll</br>
+AttackWebFrameworkToolsUser.exe -url http://www.baidu.com -thread 30        指定网站30个线程跑所有dll</br>
+AttackWebFrameworkToolsUser.exe -url http://www.baidu.com -dllname test.dll    默认线程跑指定dll(由于只有一个dll一个网站就使用默认线程就行了)</br>
+
+一键生成dll
+
+
   如果要使用勾选功能见上图实测效果。勾选功能演示。如果想自定义作者见自定义作者演示图<br/>
 集成漏洞如下(-type参数) 注意有的type参数虽然标注了两个类别但并不代表这个参数只包含这两个漏洞!!!!<br/>
 thinkphp<br/>
