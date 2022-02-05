@@ -170,6 +170,7 @@ AttackWebFrameworkToolsUser.exe -url http://www.baidu.com -dllname test.dll    �
 一键生成dll,Dllplugins.dll 是内置dll不要尝试加载。对于批量dll话在软件目录添加一个dll目录即可进行批量。其他和内置exp操作一样。使用如下图:
 
  ![userage](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/UserExpDll.png)
+ 演示忘记截图加ThreadHelper.dll 必须要有否则报错。。
  ![userage](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/UserDllExpHelp.png)
  ![userage](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/DllAttack.png)
   如果要使用勾选功能见上图实测效果。勾选功能演示。如果想自定义作者见自定义作者演示图<br/>
