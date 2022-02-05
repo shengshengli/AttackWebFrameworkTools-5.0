@@ -38,7 +38,7 @@
   <h1>AttackWebFrameworkTools 4.0 2021-08-14</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!
   如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报到飞机群上报。邮箱最近有人频繁骚扰和方便外国友人交流。故直接飞机了:
-  bug report telegram:https://t.me/softcum  contact me。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>4.0更新加入单个网站的批量测试。加入了自定义作者的功能。4.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能</h3>
+  bug report telegram:https://t.me/softcum  contact me。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>4.0更新加入单个网站的批量测试。加入了自定义作者的功能。4.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
 
  ![menu](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/5.0Exp.png)
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/Menu-dll-5.0.png)
@@ -167,10 +167,11 @@ AttackWebFrameworkToolsUser.exe -dllname test.dll -thread 30     30个线程跑t
 AttackWebFrameworkToolsUser.exe -url http://www.baidu.com      指定网站默认线程跑所有dll</br>
 AttackWebFrameworkToolsUser.exe -url http://www.baidu.com -thread 30        指定网站30个线程跑所有dll</br>
 AttackWebFrameworkToolsUser.exe -url http://www.baidu.com -dllname test.dll    默认线程跑指定dll(由于只有一个dll一个网站就使用默认线程就行了)</br>
+一键生成dll,Dllplugins.dll 是内置dll不要尝试加载。对于批量dll话在软件目录添加一个dll目录即可进行批量。其他和内置exp操作一样。使用如下图:
 
-一键生成dll
-
-
+ ![userage](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/UserExpDll.png)
+ ![userage](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/UserDllExpHelp.png)
+ ![userage](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/DllAttack.png)
   如果要使用勾选功能见上图实测效果。勾选功能演示。如果想自定义作者见自定义作者演示图<br/>
 集成漏洞如下(-type参数) 注意有的type参数虽然标注了两个类别但并不代表这个参数只包含这两个漏洞!!!!<br/>
 thinkphp<br/>
