@@ -52,6 +52,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+   <li>2022-02-05 更新框架集成自定义dll工具版本5.0</li>
   <li>2022-01-18 更新MeterSphere RCE(api)</li>
  <li>2022-01-13 更新Canal Admin信息泄露弱口令(gateway),华天动力一键getshell-mysql(htoa),PatrolFlow  一键getshell(gateway),spon 网络对讲机一键getshell,rce(hardware)</li>
   <li>2022-01-07 增加自动http网页识别编码自定义http头部方法类以增强软件功能</li>
@@ -145,16 +146,16 @@ Finetree-5MP-摄像机 未授权添加账号密码,弱密码
  (3)优点:本软件虽然不能直接由用户自定义编写exp或者poc。但是支持代理模式用户可以直接抓取poc或者exp放到bp抓包工具中进行手工测试。另外除了getshell如果失败的话会返回测试的payload详情同样可以由用户把exp导入bp中进行测试。而且把不确定成功与否的漏洞详情写入maybevul.txt中用户可以自己手工测试到底是漏洞不存在还是被拦截了。这样大大增加了成功率。相比于其他软件exp内置并且不支持代理直接抓取软件内部exp。即使失败了也搞不清楚到底是exp问题还是被拦截了
 </li>
 </ul>
-<h2>AttackWebFrameworkTools工具使用方法</h1>
+<h2>AttackWebFrameworkTools 5.0工具使用方法</h1>
 <ul>
-AttackWebFrameworkTools5.0 使用说明<br/>
+  内置exp模式<br/>
 url.txt 中网站一行一个且必须以http:// https:// 开头<br/>
-内置exp模式<br/>
+启动勾选模式,需要创建include.txt。模块一行一个具体看 勾选功能演示
 AttackWebFrameworkTools.exe 所有exp都跑使用默认线程模式<br/>
-  AttackWebFrameworkTools.exe  -thread 200 所有exp都跑使用自定义线程模式<br/>
+AttackWebFrameworkTools.exe  -thread 200 所有exp都跑使用自定义线程模式<br/>
 AttackWebFrameworkTools.exe -type thinkphp 使用默认线程跑 thinkphp框架漏洞使用说明<br/>
 AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线程跑 thinkphp框架漏洞<br/>
-  AttackWebFrameworkTools.exe -url http://www.baidu.com<br/>
+AttackWebFrameworkTools.exe -url http://www.baidu.com<br/>
 AttackWebFrameworkTools.exe -url http://www.baidu.com -thread 30<br/>
 AttackWebFrameworkTools.exe -url http://www.baidu.com/ -type thinkphp<br/>
 AttackWebFrameworkTools.exe -url http://www.baidu.com -type thinkphp -thread 30<br/>
