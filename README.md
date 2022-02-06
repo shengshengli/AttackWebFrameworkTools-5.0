@@ -52,7 +52,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
-   <li>2022-02-05 更新框架集成自定义dll工具版本5.0</li>
+   <li>2022-02-05 更新框架集成自定义dll工具版本5.0。自定义phpstudy 自定义EXP演示.见底部演示截图</li>
   <li>2022-01-18 更新MeterSphere RCE(api)</li>
  <li>2022-01-13 更新Canal Admin信息泄露弱口令(gateway),华天动力一键getshell-mysql(htoa),PatrolFlow  一键getshell(gateway),spon 网络对讲机一键getshell,rce(hardware)</li>
   <li>2022-01-07 增加自动http网页识别编码自定义http头部方法类以增强软件功能</li>
@@ -344,3 +344,6 @@ solr新增exp测试图
 
 Apache APISIX Dashboard CVE-2021-45232
 ![APISIX](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/CVE-2021-45232.png)
+
+5.0自定义Exp PhpStudyRce 功能演示截图
+![phpstudyRce](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/PhpstudyRCETest.png)
