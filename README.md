@@ -41,7 +41,7 @@
   <h1>AttackWebFrameworkTools 5.0 2022-02-05</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!
   如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报到飞机群上报。邮箱最近有人频繁骚扰和方便外国友人交流。故直接飞机了:
-  bug report telegram:https://t.me/softcum  contact me。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>5.0更新加入单个网站的批量测试。加入了自定义作者的功能。5.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
+  bug report telegram:https://t.me/softcum  contact me。加群答案:百度搜索github。请看群公告触犯将永久封禁。之前被机器人封禁的已经解封可以重新进群。别光截图。另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>5.0更新加入单个网站的批量测试。加入了自定义作者的功能。5.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
 
  ![menu](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/5.0Exp.png)
  ![menu](https://github.com/Anonymous-ghost/AttackWebFrameworkTools/blob/main/Menu-dll-5.0.png)
