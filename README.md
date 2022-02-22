@@ -55,6 +55,7 @@
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+  <li>2022-02-22 Apereo CAS 反序列化漏洞(cas) 有的结果可能存在误报如果出现误报请反馈!!!</li>
   <li>2022-02-16 向日葵远程命令执行(sunlogin)</li>
    <li>2022-02-05 更新框架集成自定义dll工具版本5.0。自定义phpstudy 自定义EXP演示.见底部演示截图。新手使用请看软件使用帮助和演示视频</li>
   <li>2022-01-18 更新MeterSphere RCE(api)</li>
@@ -265,6 +266,7 @@ hardware(硬件漏洞)<br/>
 htoa<br/>
 api(接口漏洞集合)<br/>
 sunlogin<br/>
+cas<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
