@@ -58,6 +58,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+    <li>2022-03-25 新增模块cms(存放常见的cms),原来的改为hwcms,增加OA模块(小众oa产品合集)更新 一米oa任意文件读取漏洞(oa),cmsEasy sql注入漏洞(cms) ,致翔OA sql注入(oa)</li>
   <li>2022-03-03 zabbix 认证绕过CVE-2022-23131(zabbix), spring Cloud Gateway Rce CVE-2022-22947(spring)</li>
    <li>2022-03-01 某上网行为管理系统RCE导致getshell(dkey),PowerMTA 邮件系统任意文件读取漏洞(zujian)</li>
   <li>2022-02-22 Apereo CAS 反序列化漏洞(cas) 有的结果可能存在误报如果出现误报请反馈!!!。没有加入无回显探测如果实战中又遇到无回显欢迎反馈</li>
@@ -67,14 +68,14 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
  <li>2022-01-13 更新Canal Admin信息泄露弱口令(gateway),华天动力一键getshell-mysql(htoa),PatrolFlow  一键getshell(gateway),spon 网络对讲机一键getshell,rce(hardware)</li>
   <li>2022-01-07 增加自动http网页识别编码自定义http头部方法类以增强软件功能</li>
    <li>2022-01-05 更新Apache APISIX Dashboard CVE-2021-45232 演示图见底部 合并 https://github.com/wuppp/cve-2021-45232-exp  。增加Crc32算法类修正dict字典键值重复报错问题!!!</li>
-    <li>2022-01-02 更新Panabit-Panalog日志系统RCE(yunwei),x天智能edr任意文件上传getshell(cms),ASUSTORNAS(phpmyadmin) 弱口令一键getshell。根据网站数量调低默认线程保证结果准确性</li>
-  <li> 2021-12-30 更新齐博cms ssrf|任意文件读取漏洞(cms)，增加除www.dnslog.cn接口避免dnslog无法使用导致问题。如果获取不到dnslog则会提示!!!。</li>
+    <li>2022-01-02 更新Panabit-Panalog日志系统RCE(yunwei),x天智能edr任意文件上传getshell(hwcms),ASUSTORNAS(phpmyadmin) 弱口令一键getshell。根据网站数量调低默认线程保证结果准确性</li>
+  <li> 2021-12-30 更新齐博cms ssrf|任意文件读取漏洞(hwcms)，增加除www.dnslog.cn接口避免dnslog无法使用导致问题。如果获取不到dnslog则会提示!!!。</li>
   <li> 2021-12-29 更新log4j漏洞探测(支持模块和产品Http Header Fuzzing(16)|Apache SkyWalking|Seeyon OA|MobileIrons|Apache solr|APACHE-Druid|APACHE OFBiz No Testing|APACHE Struts2|vmware-Horizon|vmware vcenter|XenMobile|UniFiNetwork|vmware-Workspace No Testing!!!|weblogic log4j)合并此项目 https://github.com/Dghpi9/Log4j2-Fuzz</li>
 <li> 2021-12-25 更新bootdo系统漏洞(bootdo)</li>
   <li> 2021-12-19 万户 OA 任意文件写入(ezoffice)</li>
-  <li> 2021-12-16 xxxoffice OA RCE(cms)</li>
+  <li> 2021-12-16 xxxoffice OA RCE(hwcms)</li>
   <li> 2021-12-15 更新 泛微OA CNVD-2021-49104(weaver OA ) 任意文件上传漏洞 覆盖两个上传接口。Lxxxxec VPN 任意文件上传前台(vpn)</li>
- <li>2021-12-12 更新xxx教学管理ERP系统任意文件上传(cms)。xx捷CRM Sql注入直接getshell(cms)。修复了某些bug。最近log4j漏洞比较火但是因为log4j参数只能fuzz。且该漏洞影响较大。各大厂商都很重视。估计修复很快。两个原因:故不集成到本工具里面了。</li>
+ <li>2021-12-12 更新xxx教学管理ERP系统任意文件上传(hwcms)。xx捷CRM Sql注入直接getshell(hwcms)。修复了某些bug。最近log4j漏洞比较火但是因为log4j参数只能fuzz。且该漏洞影响较大。各大厂商都很重视。估计修复很快。两个原因:故不集成到本工具里面了。</li>
    <li>2021-12-09 更新Grafana任意文件读取 CVE-2021-43798,增加软件更新提醒功能</li>
    <li>2021-12-06 更新Jenkins CVE-2019-1003000 并且增加爆破账号密码功能</li>
   <li>2021-12-04 更新Joomla-3.4.6远程代码执行漏洞(影响版本3.0-3.4.6)</li>
@@ -84,7 +85,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
   <li>2021-11-29 雪在烧棋牌站任意文件上传漏洞(upload) 属于古董级别漏洞。修复 数组遍历没有做判断导致误报的bug。修复正常网站没有有斜杠没有去掉的bug</li>
   <li>2021-11-28 锐捷EG易网关与NBR路由器后台命令执行漏洞(ruijie),修复:weiphp sql注入误报 solr-CVE-2019-17558 误报。修复获取网站路径斜杠多截取导致获取到不完整网站的bug</li>
   <li>2021-11-27 xxx酒店电视网关(通用) 未授权RCE漏洞(gateway)</li>
-  <li>2021-11-26  更新webuploader上传漏洞,用友-UFIDA-NC" 目录遍历,metinfo 6.0 任意文件读取漏洞(cms).,nodejs 文件读取，node js rce CVE-2021-21315</li>
+  <li>2021-11-26  更新webuploader上传漏洞,用友-UFIDA-NC" 目录遍历,metinfo 6.0 任意文件读取漏洞(hwcms).,nodejs 文件读取，node js rce CVE-2021-21315</li>
    <li>2021-11-21 更新xxx一体机rce漏洞</li>
   <li>2021-11-20 更新weiphp 5.0 未授权文件上传。sql注入漏洞</li>
   <li>2021-11-19 更新Apache ShenYu 未授权接口访问(CVE-2021-37580)</li>
@@ -112,7 +113,7 @@ php v8.1 后门,,深信服终端检测平台RCE漏洞,Selea OCR-ANPR摄像机文
   <li>2021-07-11 修复能多开,导致绕过1000条限制的bug,更新:Yapi Rce漏洞,飞鱼星路由器信息泄露(router),ACTI Camera 任意文件读取漏洞(webcam),Nacos 弱口令 未授权,
 Apache Kylin Console弱口令,Atlassian Jira 信息泄露漏洞 CVE-2020-14181，中国移动 禹路由未获授权访问,密码敏感信息泄露(router)
 coremail 任意文件上传漏洞,信息泄露漏洞， D-Link ShareCenter DNS-320 rce(router)，海康威视流媒体密码泄露,任意文件读取(webcam),
-Dlink 弱密码(router),浙江大华DSS  任意文件下载(webcam),FineReport（帆软）报表系统目录遍历漏洞(cms)，
+Dlink 弱密码(router),浙江大华DSS  任意文件下载(webcam),FineReport（帆软）报表系统目录遍历漏洞(hwcms)，
 Finetree-5MP-摄像机 未授权添加账号密码,弱密码
 </li>
   <li>2021-06-28 更新用友UFiDa bshservlet rce漏洞,更新万户ezoffice文件上传漏洞</li>
@@ -218,7 +219,7 @@ jboss<br/>
 shiro<br/>
 springboot<br/>
 weaveroa(泛微OA,泛微 Emoblie 6.6 RCE),WorkflowServicexml rce,泛微OA 任意文件上传xday<br/>
-cms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录，红帆oA,金山 V8 终端安全系统,启莱OAsql注入漏洞)
+hwcms(帆软 V9 任意文件覆盖文件上传，浪潮ClusterEngine 4.0 RCE,和信下一代云桌面VENGD 上传漏洞,齐治科技-堡垒机任意用户登录，红帆oA,金山 V8 终端安全系统,启莱OAsql注入漏洞)
  汉王考勤系统sql注入漏洞,金何OA C6 任意文件读取漏洞,极通EWEBS任意文件包含, ShiziyuCms 注入,ShopOX 任意文件下载漏洞,TamronOS IPTV命令执行协达Oa 任意文件下载
  任务调度弱口令,好视通文件读取漏洞,xx捷CRM,教学管理ERP<br/>
 firewall(360新天擎sql注入(线程调到最低!!!测试否则会漏洞网站),360新天擎未授权接口访问,奇安信 网康防火墙 代码执行,FineReport（帆软）报表系统目录遍历漏洞)
@@ -274,6 +275,8 @@ sunlogin<br/>
 cas<br/>
 zabbix<br/>
 spring(此为spring类型漏洞集合)<br/>
+oa(一米OA,致翔OA不出名oa集合)<br/>
+cms(常见cms cmseasy)<br/>
 如果会在软件同目录下生产shell.txt。注意括号内的不是type参数是支持哪些漏洞例如router(dlink,三星路由器) 这个-type router这么写就o了
 </ul>
 <h2>软件使用注意事项</h2>
