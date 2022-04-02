@@ -58,6 +58,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+      <li>2022-04-03 新增 Spring Cloud Function SPEL表达式注入漏洞 CVE-2022-22963(springboot),spring core rce检测  CVE-2022-22965(spring)  </li>
     <li>2022-03-25 新增模块cms(存放常见的cms),原来的改为hwcms,增加OA模块(小众oa产品合集)更新 一米oa任意文件读取漏洞(oa),cmsEasy sql注入漏洞(cms) ,致翔OA sql注入(oa)</li>
   <li>2022-03-03 zabbix 认证绕过CVE-2022-23131(zabbix), spring Cloud Gateway Rce CVE-2022-22947(spring)</li>
    <li>2022-03-01 某上网行为管理系统RCE导致getshell(dkey),PowerMTA 邮件系统任意文件读取漏洞(zujian)</li>
