@@ -10,7 +10,7 @@
     后续会提供post。get数据包的dll。后续可能会开放上传dll。可以直接调用。或者用户自己编写</li>
   <li>内置exp。作者编写</li>
     <li>5.0 使用视频教程:https://youtu.be/tqmw3GgWxVM</li>
-  <li>软件开发目的是让渗透测试工程是不在关注或者很少关注xday Or 1day。只关注渗透测试常规漏洞和0day漏洞</li>
+  <li>软件开发目的是让渗透测试人员是不在关注或者很少关注xday Or 1day。只关注渗透测试常规漏洞和0day漏洞</li>
   </ul>
   <h3>祝大家新年快乐,虎年技术更上一层楼,挖day挖到手软.
 2022农历正月初一  By Anonymous-ghost&虚愚公子 
