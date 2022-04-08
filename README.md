@@ -184,7 +184,7 @@ AttackWebFrameworkToolsUser.exe -dllname test.dll -thread 30     30个线程跑t
 AttackWebFrameworkToolsUser.exe -url http://www.baidu.com      指定网站默认线程跑所有dll</br>
 AttackWebFrameworkToolsUser.exe -url http://www.baidu.com -thread 30        指定网站30个线程跑所有dll</br>
 AttackWebFrameworkToolsUser.exe -url http://www.baidu.com -dllname test.dll    默认线程跑指定dll(由于只有一个dll一个网站就使用默认线程就行了)</br>
-一键生成dll,Dllplugins.dll 是内置dll不要尝试加载。对于批量dll话在软件目录添加一个dll目录即可进行批量。其他和内置exp操作一样。使用如下图:
+一键生成dll,Dllplugins.dll 是内置dll不要尝试加载。对于批量dll话在软件目录添加一个dll目录即可进行批量。其他和内置exp操作一样。注意一键生成dll软件除post数据框那里可以有带双引号的数据。其他所有地方都不允许有双引号否则会编译失败!!!使用如下图:
 
  ![userage](https://raw.githubusercontent.com/Anonymous-ghost/AttackWebFrameworkTools/main/UserExpDll.png)
  演示忘记截图加ThreadHelper.dll 必须要有否则报错。。
