@@ -63,7 +63,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
    <li>2022-04-21 更新CVE-2022-29464 wso2 file upload(yunwei) from https://github.com/hakivvi/CVE-2022-29464</li>
   <li>2022-04-15 更新vmware Workspace RCE CVE-2022-22954(vmware)!!!.修复dll模式线程终止的bug</li>
   <li>2022-04-08 添加 一键生成dll的软件指纹生成功能。注意一键生成dll软件除post数据框那里可以有带双引号的数据。其他所有地方都不允许有双引号否则会编译失败!!!</li>
-  <li>2022-04-05 修复 一键生成dll的软件提交json数据导致的bug。感谢用户反馈</li>
+  <li>2022-04-05 修复 一键生成dll的软件提交json数据导致的bug。感谢用户反馈。或者不修复的话提交直接转义特殊符号进行提交\" \\ </li>
  <li>2022-04-03 新增 Spring Cloud Function SPEL表达式注入漏洞 CVE-2022-22963(springboot),spring core rce检测  CVE-2022-22965(spring) 。修复git 信息泄露漏洞,weaverOa8 sql注入误报,yongyouu8 信息泄露误报问题。修复  solr log4j探测不出误报问题。感谢反馈!!! </li>
     <li>2022-03-25 新增模块cms(存放常见的cms),原来的改为hwcms,增加OA模块(小众oa产品合集)更新 一米oa任意文件读取漏洞(oa),cmsEasy sql注入漏洞(cms) ,致翔OA sql注入(oa)</li>
   <li>2022-03-03 zabbix 认证绕过CVE-2022-23131(zabbix), spring Cloud Gateway Rce CVE-2022-22947(spring)</li>
