@@ -60,6 +60,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+   <li>2022-04-21 更新CVE-2022-29464 wso2 file upload(yunwei) from https://github.com/hakivvi/CVE-2022-29464</li>
   <li>2022-04-15 更新vmware Workspace RCE CVE-2022-22954(vmware)!!!.修复dll模式线程终止的bug</li>
   <li>2022-04-08 添加 一键生成dll的软件指纹生成功能。注意一键生成dll软件除post数据框那里可以有带双引号的数据。其他所有地方都不允许有双引号否则会编译失败!!!</li>
   <li>2022-04-05 修复 一键生成dll的软件提交json数据导致的bug。感谢用户反馈</li>
