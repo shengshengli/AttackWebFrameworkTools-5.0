@@ -59,7 +59,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
 <h2>更新日志:</h2>
 <ul>
-  <li>更新日志记录软件已经停止更新!!!</li
+  <li>更新日志记录软件已经停止更新!!!</li>
    <li>2022-05-09 更新CVE-2022-1388  F5 big ip Rce (bigip) 由于exp特殊原因.net框架特殊原因只进行检测可能会有误报 from https://github.com/bytecaps/CVE-2022-1388-EXP </li>
    <li>2022-04-21 更新CVE-2022-29464 wso2 file upload(yunwei) from https://github.com/hakivvi/CVE-2022-29464</li>
   <li>2022-04-15 更新vmware Workspace RCE CVE-2022-22954(vmware)!!!.修复dll模式线程终止的bug</li>
