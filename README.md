@@ -60,6 +60,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+    <li>2022-05-19 更新CVE-2022-30525(firewall)  zyxel 远程命令执行漏洞。该漏洞由于不回显采用 dnslog方式探测根据网络原因 可能会出现漏报!!!! </li>
    <li>2022-05-09 更新CVE-2022-1388  F5 big ip Rce (bigip) 由于exp特殊原因.net框架特殊原因只进行检测可能会有误报 from https://github.com/bytecaps/CVE-2022-1388-EXP </li>
    <li>2022-04-21 更新CVE-2022-29464 wso2 file upload(yunwei) from https://github.com/hakivvi/CVE-2022-29464</li>
   <li>2022-04-15 更新vmware Workspace RCE CVE-2022-22954(vmware)!!!.修复dll模式线程终止的bug</li>
