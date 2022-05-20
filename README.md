@@ -105,7 +105,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
   <li>2021-11-07 H5S视频平台未授权 接口泄露</li>
     <li>2021-10-29 更新 gitlab 未授权 rce gitlab CVE-2021-22205 合并此项目https://github.com/r0eXpeR/CVE-2021-22205 不回显漏洞使用dnslog检测如果不出网那么即使有漏洞也无法检测 </li>
   <li>2021-10-16 修复导致软件奔溃严重bug,修复shiro 识别不准确的bug</li>
-   <li>2021-10-10 更新CVE-2021-41773 CVE-2021-42013 检测和识别是否是对应版本(apache)由于net特性会对poc进行自动编码导致无法准确检测!!!请使用专用工具检测</li>
+   <li>2021-10-10 更新phpstudy,CVE-2021-41773 CVE-2021-42013 检测和识别是否是对应版本(apache)由于net特性会对poc进行自动编码导致无法准确检测!!!请使用专用工具检测</li>
    <li>2021-09-29  更新:VMware vCenter Server CVE-2021-22005 Reference:https://github.com/rwincey/CVE-2021-22005</li>
   <li>2021-09-04 Atlassian Confluence OGNL 表达式注入CVE-2021-26084</li>
   <li>2021-08-28 修复在识别框架shiro的时候部分网站识别不准确的bug。修复 weaverOA WorkflowServicexml dnslog检测失败的bug。此问题存在于公开版本</li>
